@@ -1,3 +1,6 @@
+---
+type: list
+---
 1. C. F. S. Hahnemann (1755 – 1843): German doctor and scholar, renewed the medicine of his time. 
 2. C. Darwin (1809 – 1882): English scientist. 
 3. W. Whitman (1819 – 1892): American journalist, poet and teacher. 

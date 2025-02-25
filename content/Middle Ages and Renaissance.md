@@ -1,3 +1,6 @@
+---
+type: list
+---
 - Boethius (480-524)
 - Isidore of Seville (560-636)
 - Aldhelm (639-709)
