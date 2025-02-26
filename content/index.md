@@ -1,5 +1,5 @@
 ---
-title: Welcome to Hypnerotomechia
+title:
 ---
 In the wake of the mechanization of the desiring-dream
 
