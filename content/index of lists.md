@@ -13,3 +13,4 @@ title: Index of Lists
 
 [[chronological sketch of the chemical industry|Chronological Sketch of the Chemical Industry]]
 
+[[alexander theroux - a short history of creatrixes|Alexander Theroux's List of "Creatrixes"]]
