@@ -1,6 +1,8 @@
 ---
 title: Podcasts I've Listened To
 ---
+Some podcasts I listen to...
+
 - **Advent of Computing** – History of computers / a bit about the entities involved
 - **Hermitix** – Continental Philosophy / Esotericism / Literature
 - **Weird Studies** – Esotericism / Weird art

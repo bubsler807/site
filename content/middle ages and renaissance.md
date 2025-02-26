@@ -2,6 +2,8 @@
 type: list
 title: Interesting Figures in the Middle Ages and Renaissance
 ---
+Persons of interest living in the middle ages and renaissance.
+
 - Boethius (480-524)
 - Isidore of Seville (560-636)
 - Aldhelm (639-709)

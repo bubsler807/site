@@ -2,6 +2,8 @@
 type: list
 title: Grothendieck's 18 Mutants
 ---
+> In this century, as no doubt in the last one, there have been a certain number of individuals who in my eyes appear as “new humans”, humans who, like “mutants”, suddenly appear and in one way or another embody in the present the “human of tomorrow”, humans in the full sense, who without doubt will develop in the coming generations, in the “post-herd- age”, whose dawning is imminent and which they silently herald.
+
 1. C. F. S. Hahnemann (1755 – 1843): German doctor and scholar, renewed the medicine of his time. 
 2. C. Darwin (1809 – 1882): English scientist. 
 3. W. Whitman (1819 – 1892): American journalist, poet and teacher. 
