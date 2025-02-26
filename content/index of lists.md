@@ -9,3 +9,5 @@ title: Index of Lists
 
 [[link list|List of Links]]
 
+[[chronological sketch of the chemical industry|Chronological Sketch of the Chemical Industry]]
+
