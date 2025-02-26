@@ -9,4 +9,4 @@ title: Andy Warhol on Coca-Cola and American Equality
 
 —_The Philosophy of Andy Warhol_ (1977)
 
-This is false, of course. There is only the facade of equality. You can buy Mexican Coke for more, which is healthier for you. Or better yet, buy another brand of cola. This extends to most foods. The poor eat poison.
+This is unfortunately increasingly false. There is only the facade of equality. You can buy Mexican Coke with real sugar instead of HFCS for more. Or better yet, buy another brand of cola. This generally extends to most foods.
