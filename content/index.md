@@ -7,4 +7,4 @@ In the wake of the mechanization of the desiring-dream
 
 [[physical library|Physical Library]]
 
-[[pdfs]]
+[[pdfs|PDFs]]
