@@ -1,5 +1,6 @@
 ---
 type: list
+title: List of Interesting Figures in the Middle Ages and Renaissance
 ---
 - Boethius (480-524)
 - Isidore of Seville (560-636)
