@@ -22,3 +22,6 @@ title: Link List
 - http://metaphors.iath.virginia.edu/metaphors - Collection of "mental metaphorics"
 - https://www.etymonline.com/ - Etymology
 - https://digdeeper.neocities.org/
+
+### Interesting
+https://www.loc.gov/pictures/search/?q=mrg&sp=1&st=gallery - 11,000 public domain photos of American roadside attractions photographed in broad daylight without people by John Margolies
