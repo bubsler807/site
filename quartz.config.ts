@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "HYPNEROTOMECHIA",
+    pageTitle: "Hypnerotomechia",
     pageTitleSuffix: " - The mechanization of the desiring-dream",
     enableSPA: true,
     enablePopovers: true,
