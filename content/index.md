@@ -3,6 +3,6 @@ title: Home
 ---
 In the wake of the mechanization of the desiring-dream
 
-[[index of lists]]
+[[Index of Lists|index of lists]]
 
-[[physical library]]
+[[Physical Library|physical library]]

@@ -1,9 +1,9 @@
 ---
 title: Index of Lists
 ---
-[[physical library]]
+[[Physical Library|physical library]]
 
-[[grothendieck's 18 mutants]]
+[[Grothendieck's 18 Mutants|grothendieck's 18 mutants]]
 
-[[middle ages and renaissance]]
+[[Middle Ages and Renaissance|middle ages and renaissance]]
 
