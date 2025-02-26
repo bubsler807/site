@@ -18,3 +18,4 @@
 - https://unlimitedhangout.com/ - Political journalism
 - http://metaphors.iath.virginia.edu/metaphors - Collection of "mental metaphorics"
 - https://www.etymonline.com/ - Etymology
+- https://digdeeper.neocities.org/
