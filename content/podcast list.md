@@ -1,0 +1,37 @@
+---
+title: Podcasts I've Listened To
+---
+- **Advent of Computing** – History of computers / a bit about the entities involved
+- **Hermitix** – Continental Philosophy / Esotericism / Literature
+- **Weird Studies** – Esotericism / Weird art
+- **Dilettantery** – Anthropology / Media studies / Prehistoric cave art / Archaeology of light and darkness
+- **Content Minded Podcast** – Right-wing contemporary cultural analysis
+- **Lost XPlorers** – Mix of esotericism / daily life / cultural analysis
+- **Fight Like An Animal** – Biology / neuroscience of Left / Right divide / Environmentalist memoir
+- **Acid Horizon** – Continental Philosophy
+- **Machinic Unconscious Happy Hour** – Continental Philosophy
+- **Art of Darkness** – Profiles on famous artists
+- **Texas Overture** – Paranormal / weird Texas history
+- **Psyop Cinema** – Analysis of MK dog whistles in cinema
+- **Pseudodoxology** – World analysis / Systems theory history / Library science history
+- **ParaPower Mapping** – Parapolitical anti-capitalist history
+- **CONTAIN** – Cultural exploration
+- **Programmed to Chill** – Crime / Parapolitics
+- **Death is Just Around the Corner** – Parapolitics / Literature / Music
+- **Secret History of Western Esotericism Podcast** – History of esotericism in relation to a more common view of Western philosophy
+- **HIEROPHANY** – Exploration of archetypal images from the Western esoteric tradition
+- **Occult Experiments in the Home** – Esotericism
+- **Not Related!** – Book overviews / Historical topic overviews
+- **The Higherside Chats** – Psychedelic / new-age flavored esotericism
+- **My Family Thinks I'm Crazy** – Weird / Paranormal / Conspiracy
+- **Other Life** – Interviews / Cultural analysis / Analysis of artists
+- **If Books Could Kill** – Deconstruction of airport bestsellers / Books whose title is just a verb
+- **History of Philosophy Without Any Gaps** – History of philosophy
+- **Books of Some Substance** – Discussions on literature
+- **Reading McCarthy** – Discussions on the work of Cormac McCarthy
+- **The UBK Happy Funtime Hour** – Music production, engineering, mixing
+- **JUDGE MOVIES** – Film analysis
+- **Beyond The Zero** – Literature
+- **Future Fossils** – Science, Spirituality, Deep History
+- **Come and See** – Parapolitics, Conspiracy, UFOs
+- **Method and Madness** – Literature and Esotericism / Weirdness
