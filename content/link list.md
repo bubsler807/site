@@ -2,7 +2,7 @@
 title: Link List
 ---
 ### Twitter
-- [https://x.com/thomasmurphy__ - Neo-Baroque Philosophy
+- https://x.com/thomasmurphy__ - Neo-Baroque Philosophy
 - https://x.com/tropikjournal - ^
 - https://x.com/mbauwens - Cyclic Civilizational Analysis
 - https://x.com/NangaParbat1618 - Biology / Bioenergetics
