@@ -2,7 +2,7 @@
 title: Physical Library
 ---
 
-Books I own physical copies of.
+A currently incomplete list of books that I own physical copies of.
 ### English
 Ackroyd, Peter - Shakespeare: The Biography
 
