@@ -7,3 +7,5 @@ title: Index of Lists
 
 [[middle ages and renaissance|Middle Ages and Renaissance]]
 
+[[link list|List of Links]]
+
