@@ -31,7 +31,7 @@ title: Link List
 - <p><a href="http://k-punk.abstractdynamics.org/">K-Punk</a> - Culture, Philosophy, Politics</p>
 - <p><a href="https://fractalontology.wordpress.com//">Fractal Ontology</a></p>
 - <p><a href="https://larvalsubjects.wordpress.com/">Larval Subjects</a></p>
-- <p><a href="">Creative Coherence</a> - Bioenergetics</p>
+- <p><a href="http://creativecoherence.co/">Creative Coherence</a> Integral Adjacent / Bioenergetics Philosophy</p>
 - <p><a href="https://www.ecosophia.net/">Ecosophia</a> - Occultism, Ecology, Collapse</p>
 - <p><a href="https://footnotes2plato.com/">Footnotes2Plato</a> - Philosophy</p>
 - <p><a href="https://thoughtforms.life/">Michael Levin</a> - Biology, Bioelectricity, Morphogenesis</p>
