@@ -35,5 +35,5 @@ Some podcasts I listen to...
 - **JUDGE MOVIES** – Film analysis
 - **Beyond The Zero** – Literature
 - **Future Fossils** – Science, Spirituality, Deep History
-- **Come and See** – Parapolitics, Conspiracy, UFOs
+- **Come and See** – Parapolitics, Conspiracy, UFOs from a parapolitical perspective
 - **Method and Madness** – Literature and Esotericism / Weirdness
