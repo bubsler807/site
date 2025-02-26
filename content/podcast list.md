@@ -3,11 +3,11 @@ title: Podcasts I've Listened To
 ---
 Some podcasts I listen to...
 
-- **Advent of Computing** – History of computers / a bit about the entities involved
-- **Hermitix** – Continental Philosophy / Esotericism / Literature
-- **Weird Studies** – Esotericism / Weird art
-- **Dilettantery** – Anthropology / Media studies / Prehistoric cave art / Archaeology of light and darkness
-- **Content Minded Podcast** – Right-wing contemporary cultural analysis
+- **[Advent of Computing](https://www.patreon.com/adventofcomputing)** – History of computers / a bit about the entities involved
+- **[Hermitix](https://www.patreon.com/hermitix)** – Continental Philosophy / Esotericism / Literature
+- **[Weird Studies](https://www.patreon.com/weirdstudies)** – Esotericism / Weird art
+- **[Dilettantery](https://podcasts.apple.com/us/podcast/dilettantery/id1527318257)** – Anthropology / Media studies / Prehistoric cave art / Archaeology of light and darkness
+- **[Content Minded Podcast](https://www.patreon.com/giantartproductions)** – Right-wing contemporary cultural analysis
 - **Lost XPlorers** – Mix of esotericism / daily life / cultural analysis
 - **Fight Like An Animal** – Biology / neuroscience of Left / Right divide / Environmentalist memoir
 - **Acid Horizon** – Continental Philosophy
@@ -15,9 +15,9 @@ Some podcasts I listen to...
 - **Art of Darkness** – Profiles on famous artists
 - **Texas Overture** – Paranormal / weird Texas history
 - **Psyop Cinema** – Analysis of MK dog whistles in cinema
-- **Pseudodoxology** – World analysis / Systems theory history / Library science history
+- **[Pseudodoxology](https://www.patreon.com/wydna)** – World analysis / Systems theory history / Library science history
 - **ParaPower Mapping** – Parapolitical anti-capitalist history
-- **CONTAIN** – Cultural exploration
+- **[CONTAIN](https://www.patreon.com/c/contain/home)** – Cultural exploration
 - **Programmed to Chill** – Crime / Parapolitics
 - **Death is Just Around the Corner** – Parapolitics / Literature / Music
 - **Secret History of Western Esotericism Podcast** – History of esotericism in relation to a more common view of Western philosophy
@@ -36,4 +36,4 @@ Some podcasts I listen to...
 - **Beyond The Zero** – Literature
 - **Future Fossils** – Science, Spirituality, Deep History
 - **Come and See** – Parapolitics, Conspiracy, UFOs from a parapolitical perspective
-- **Method and Madness** – Literature and Esotericism / Weirdness
+- **Method and Madness** – Literature and Esotericism
