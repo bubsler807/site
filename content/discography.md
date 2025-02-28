@@ -1,6 +1,8 @@
 ---
 title: Discography
 ---
+
+The date before the name is the date that I exported the song.
 ### 2024-12-12 - POP-116 (Early Version):
 ![[POP116 2024-12-12 1320.mp3|POP-116]]
 
