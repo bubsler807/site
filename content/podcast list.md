@@ -1,7 +1,7 @@
 ---
 title: Podcasts I've Listened To
 ---
-Some podcasts I listen to...
+Some podcasts I listen to... Dunno if I would recommend all of them, but I would recommend most. I starred some of my favorites.
 
 - **Acid Horizon** – Continental Philosophy
 - **[Advent of Computing](https://www.patreon.com/adventofcomputing)** – History of computers / a bit about the entities involved
@@ -11,25 +11,25 @@ Some podcasts I listen to...
 - **Come and See** – Parapolitics, Conspiracy, UFOs from a parapolitical perspective
 - **[CONTAIN](https://www.patreon.com/c/contain/home)** – Cultural exploration
 - **[Content Minded Podcast](https://www.patreon.com/giantartproductions)** – Right-wing contemporary cultural analysis
-- **Death is Just Around the Corner** – Parapolitics / Literature / Music
-- **[Dilettantery](https://podcasts.apple.com/us/podcast/dilettantery/id1527318257)** – Anthropology / Media studies / Prehistoric cave art / Archaeology of light and darkness
+- ☆ **Death is Just Around the Corner** – Parapolitics / Literature / Music
+- ☆ **[Dilettantery](https://podcasts.apple.com/us/podcast/dilettantery/id1527318257)** – Anthropology / Media studies / Prehistoric cave art / Archaeology of light and darkness
 - **Fight Like An Animal** – Biology / neuroscience of Left / Right divide / Environmentalist memoir
 - **Future Fossils** – Science, Spirituality, Deep History
 - **[Hermitix](https://www.patreon.com/hermitix)** – Continental Philosophy / Esotericism / Literature
 - **HIEROPHANY** – Exploration of archetypal images from the Western esoteric tradition
-- **History of Philosophy Without Any Gaps** – History of philosophy
+- ☆ **History of Philosophy Without Any Gaps** – History of philosophy
 - **If Books Could Kill** – Deconstruction of airport bestsellers / Books whose title is just a verb
-- **JUDGE MOVIES** – Film analysis
+- ☆ **JUDGE MOVIES** – Film analysis
 - **Lost XPlorers** – Mix of esotericism / daily life / cultural analysis
 - **Machinic Unconscious Happy Hour** – Continental Philosophy
-- **Method and Madness** – Literature and Esotericism
+- ☆ **Method and Madness** – Literature and Esotericism
 - **My Family Thinks I'm Crazy** – Weird / Paranormal / Conspiracy
 - **Not Related!** – Book overviews / Historical topic overviews
 - **Occult Experiments in the Home** – Esotericism
 - **Other Life** – Interviews / Cultural analysis / Analysis of artists
 - **ParaPower Mapping** – Parapolitical anti-capitalist history
 - **Programmed to Chill** – Crime / Parapolitics
-- **[Pseudodoxology](https://www.patreon.com/wydna)** – World analysis / Systems theory history / Library science history
+- ☆ **[Pseudodoxology](https://www.patreon.com/wydna)** – World analysis / Systems theory history / Library science history
 - **Psyop Cinema** – Analysis of MK dog whistles in cinema
 - **Reading McCarthy** – Discussions on the work of Cormac McCarthy
 - **Secret History of Western Esotericism Podcast** – History of esotericism in relation to a more common view of Western philosophy
@@ -37,3 +37,4 @@ Some podcasts I listen to...
 - **The Higherside Chats** – Psychedelic / new-age flavored esotericism
 - **The UBK Happy Funtime Hour** – Music production, engineering, mixing
 - **[Weird Studies](https://www.patreon.com/weirdstudies)** – Esotericism / Weird art
+- ☆ LEPHT HAND - philosophy, psychology, and politics. Created by Sereptie (Craig) from the Acid Horizon podcast.
