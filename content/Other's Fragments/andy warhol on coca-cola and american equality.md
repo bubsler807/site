@@ -10,6 +10,6 @@ tags:
 
 > The idea of America is so wonderful because the more equal something is, the more American it is. For instance, a lot of places give you special treatment when you're famous, but that's not really American. The other day something very American happened to me. I was going into an auction at Parke-Bernet and they wouldn't let me in because I had my dog with me, so I had to wait in the lobby for the friend I was meeting there to tell him I'd been turned away. And while I was waiting in the lobby I signed autographs. It was a really American situation to be in.
 
-—_The Philosophy of Andy Warhol_ (1977)
+—_The Philosophy of Andy Warhol_ (1975)
 
 Fast forward a few years and there remains only the facade of equality. In reality you can pay more to buy Mexican Coke with real sugar instead of HFCS. Or better yet, buy another brand of cola. This generally extends to most foods.
