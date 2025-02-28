@@ -1,6 +1,8 @@
 ---
 title: Andy Warhol on Coca-Cola and American Equality
 date: 2025-02-25
+tags:
+  - Cultural
 ---
 > What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you can know that the President drinks Coke, Liz Taylor drinks Coke, and just think, you can drink Coke, too. A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking. AM the Cokes are the same and all the Cokes are good. Liz Taylor knows it, the President knows it, the bum knows it, and you know it.
 
