@@ -16,7 +16,7 @@ tags:
 ### Youtube
 
 #### Playlists
-- https://www.youtube.com/playlist?list=PLBX1pBDSqPS0XjkHMTqDmKI_wNJwiNw6B - Down With Alice
+- [Down With Alice](https://www.youtube.com/playlist?list=PLBX1pBDSqPS0XjkHMTqDmKI_wNJwiNw6B) - Rabbit Holes
 
 ### Websites
 - https://wiki.p2pfoundation.net/Main_Page - Cyclic civilizational analysis in historicist mode
@@ -26,7 +26,7 @@ tags:
 - https://www.etymonline.com/ - Etymology
 
 ### Blogs
-- https://digdeeper.neocities.org/
+- [Dig Deeper](https://digdeeper.neocities.org/) - Computers, Conspiracy, Health
 -  <p><a href="https://thonyc.wordpress.com/">The Renaissance Mathematicus</a> - History of Science</p>
 - <p><a href="https://thomas-murphy.com/">Thomas Murphy</a> - Math, Philosophy, Literature</p>
 - <p><a href="https://deterritorialinvestigations.wordpress.com/">Deterritorial Investigations</a></p>
@@ -38,7 +38,7 @@ tags:
 - <p><a href="https://www.ecosophia.net/">Ecosophia</a> - Occultism, Ecology, Collapse</p>
 - <p><a href="https://footnotes2plato.com/">Footnotes2Plato</a> - Philosophy</p>
 - <p><a href="https://thoughtforms.life/">Michael Levin</a> - Biology, Bioelectricity, Morphogenesis</p>
-- <p><a href="https://theuntranslated.wordpress.com/">The Untranslated</a> - Discussing Untranslated and Recently Translated Literature</p>
+- <p><a href="https://theuntranslated.wordpress.com/">The Untranslated</a> - Discussing untranslated and recently translated literature</p>
 - <p><a href="https://swimpool.blog/">The Swim Pool</a> - Culture, Occultism</p>
 - <p><a href="https://akinokure.blogspot.com/">Face to Face</a> - Culture, Art, History</p>
 - <p><a href="https://www.jdemeta.net/">JDEMeta</a> - Culture, Philosophy, Accelerationism</p>
