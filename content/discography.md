@@ -1,5 +1,6 @@
 ---
 title: Discography
+date: 2025-02-25
 ---
 
 The date before the name is the date that I exported the song.

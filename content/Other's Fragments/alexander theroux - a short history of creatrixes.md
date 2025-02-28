@@ -1,5 +1,6 @@
 ---
 title: Alexander Theroux - A Short History of Creatrixes
+date: 2025-02-26
 ---
 > “Wanda Woodpecker of Puddlebury?  
 > “Mother Gin-Sling and her Shanghai Gesture?  

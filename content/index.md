@@ -1,5 +1,6 @@
 ---
 title: Home
+date: 2025-02-25
 ---
 # Strategic Confusion in the Wake of the Mechanization of the Desiring-Dream
 --------

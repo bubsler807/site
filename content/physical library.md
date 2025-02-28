@@ -1,5 +1,6 @@
 ---
 title: Physical Library
+date: 2025-02-25
 ---
 
 A currently incomplete list of books that I own physical copies of.

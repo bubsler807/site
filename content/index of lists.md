@@ -1,5 +1,6 @@
 ---
 title: Index of Lists
+date: 2025-02-25
 ---
 [[physical library|Physical Library]]
 
