@@ -1,6 +1,8 @@
 ---
 title: Link List
 date: 2025-02-25
+tags:
+  - List
 ---
 ### Twitter
 - https://x.com/thomasmurphy__ - Neo-Baroque Philosophy

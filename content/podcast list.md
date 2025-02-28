@@ -1,6 +1,8 @@
 ---
 title: Podcasts I've Listened To
 date: 2025-02-25
+tags:
+  - List
 ---
 Some podcasts I listen to... Dunno if I would recommend all of them, but I would recommend most. I starred some of my favorites.
 
