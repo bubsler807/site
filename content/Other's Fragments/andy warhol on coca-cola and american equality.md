@@ -4,7 +4,7 @@ date: 2025-02-25
 tags:
   - Cultural
 ---
-> What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you can know that the President drinks Coke, Liz Taylor drinks Coke, and just think, you can drink Coke, too. A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking. AM the Cokes are the same and all the Cokes are good. Liz Taylor knows it, the President knows it, the bum knows it, and you know it.
+> What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest. You can be watching TV and see Coca-Cola, and you can know that the President drinks Coke, Liz Taylor drinks Coke, and just think, you can drink Coke, too. A Coke is a Coke and no amount of money can get you a better Coke than the one the bum on the corner is drinking. All the Cokes are the same and all the Cokes are good. Liz Taylor knows it, the President knows it, the bum knows it, and you know it.
 
 > Sometimes you fantasize that people who are really up-there and rich and living it up have something you don't have, that their things must be better than your things because they have more money than you. But they drink the same Cokes and eat the same hot dogs and wear the same ILGWU clothes and see the same TV shows and the same movies. Rich people can't see a sillier version of Truth or Consequences, or a scarier version of The Exorcist. You can get just as revolted as they can—you can have the same nightmares. All of this is really American.
 
