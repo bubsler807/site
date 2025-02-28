@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-Strategic confusion in the wake of the mechanization of the desiring-dream
+# Strategic Confusion in the Wake of the Mechanization of the Desiring-Dream
 
 [[index of lists|Index of Lists]]
 
