@@ -1,5 +1,5 @@
 ---
-title: PDFs
+title: PDF Collection
 ---
 Hopefully public domain PDFs of the rarer variety.
 

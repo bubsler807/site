@@ -14,4 +14,4 @@ Here are some places to start:
 
 [[physical library|Physical Library]]
 
-[[pdfs|PDFs]]
+[[pdfs|PDF Collection]]
