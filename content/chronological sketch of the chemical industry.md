@@ -1,5 +1,6 @@
 ---
 title: Chronological Sketch of the Chemical Industry
+date: 2025-02-26
 ---
 (1777) Lavoisier's _Traité Élémentaire de Chimie_ outlines the Law of Conservation of Mass, considered to be the first modern chemical textbook.
 
