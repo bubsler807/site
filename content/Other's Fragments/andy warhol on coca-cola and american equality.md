@@ -9,4 +9,4 @@ title: Andy Warhol on Coca-Cola and American Equality
 
 —_The Philosophy of Andy Warhol_ (1977)
 
-This is unfortunately increasingly false. There is only the facade of equality. You can buy Mexican Coke with real sugar instead of HFCS for more. Or better yet, buy another brand of cola. This generally extends to most foods.
+Fast forward a few years and there remains only the facade of equality. In reality you can pay more to buy Mexican Coke with real sugar instead of HFCS. Or better yet, buy another brand of cola. This generally extends to most foods.
