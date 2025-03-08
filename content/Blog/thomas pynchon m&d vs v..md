@@ -66,8 +66,8 @@ The Point is another inverted V. _"held by a gnaw'd split."_
 > She warn’d Ramillies sailors, Beware of the Bolt,   
 > And the Corsica-bound of Pa-oli’s Revolt,—   
 > From lottery Tickets to History’s End,   
-> ==She’s the mis’rable, bug-bitten sailor’s best friend, singing,   
-> Let us go down==, &c.  
+> ==She’s the mis’rable, bug-bitten sailor’s best friend, singing,==   
+> ==Let us go down==, &c.  
 
 There aren't a multiplicity of Hepsies like Beatrices, but she does have somewhat of a double in Mauve.
 
