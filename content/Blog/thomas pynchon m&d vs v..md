@@ -60,21 +60,21 @@ Both Ploy and L.E.D are adjacent to the supernatural.
 
 The Point is another inverted V. _"held by a gnaw'd split."_
 
-> Gamesters in Trouble, Sweet-Hearts untrue, 
-> Sailors with no one to bid them adieu, 
-> Roistering Fops and the Mast-Pond Brigade, all 
-> Impatient to chat with the Sibylline Maid, singing, 
+> Gamesters in Trouble, Sweet-Hearts untrue,   
+> Sailors with no one to bid them adieu,   
+> Roistering Fops and the Mast-Pond Brigade, all   
+> Impatient to chat with the Sibylline Maid, singing,   
 > 
-> Let us go down, to Hepsie’s tonight, 
-> Maybe tonight, she’ll show us the Light,— 
-> Maybe she’ll cackle, and maybe she’ll cry, 
-> But for two and a kick she won’t spit in your Eye. 
+> Let us go down, to Hepsie’s tonight,   
+> Maybe tonight, she’ll show us the Light,—   
+> Maybe she’ll cackle, and maybe she’ll cry,   
+> But for two and a kick she won’t spit in your Eye.   
 > 
-> She warn’d Ramillies sailors, Beware of the Bolt, 
-> And the Corsica-bound of Pa-oli’s Revolt,— 
-> From lottery Tickets to History’s End, 
-> ==She’s the mis’rable, bug-bitten sailor’s best friend, singing, 
-> Let us go down==, &c.
+> She warn’d Ramillies sailors, Beware of the Bolt,   
+> And the Corsica-bound of Pa-oli’s Revolt,—   
+> From lottery Tickets to History’s End,   
+> ==She’s the mis’rable, bug-bitten sailor’s best friend, singing,   
+> Let us go down==, &c.  
 
 There aren't a multiplicity of Hepsies like Beatrices, but she does have somewhat of a double in Mauve.
 
