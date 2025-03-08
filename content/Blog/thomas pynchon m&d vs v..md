@@ -84,6 +84,4 @@ Pynchon certainly was thinking of the first mass produced synthetic dye.
 
 ----
 
-_M&D_ is, in part, a reconfiguration of _V._—taking its themes and reversing their motion, transforming its monstrous into the civilized and vice versa, its outward journeys into inward descents...
-
 Each one one of his books builds on the previous books. [[thomas pynchon magnum opus|Thomas Pynchon's novels ought to be read as a single work.]] Read as a kaleidoscopic analogizing of the world... as a forest of mirrors.
