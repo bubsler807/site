@@ -4,6 +4,7 @@ date: 2025-03-08
 tags:
   - Literature
   - Horror
+  - Nihilism
 ---
 > What the white whale was to Ahab, has been hinted; what, at times, he was to me, as yet remains unsaid.
 > 
