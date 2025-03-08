@@ -10,7 +10,7 @@ tags:
 
 (1828) Friedrich Wöhler synthesizes urea from ammonium cyanate—starting point of modern organic chemistry—blurs lines between organic and inorganic
 
-(1856) _Perkin's Mauv_ - William Henry Perkin accidentally discovers *mauveine* a purple dye derived from _aniline_, a coal tar byproduct, and marked a significant breakthrough in the chemical industry by enabling mass-produced synthetic colors for textiles. First mass produced synthetic dye.
+(1856) _Perkin's Mauv_ - William Henry Perkin accidentally discovers *mauveine* a purple dye derived from _aniline_, a coal tar byproduct, and marked a significant breakthrough in the chemical industry by enabling mass-produced synthetic colors for textiles. First mass produced synthetic dye. ^befd4f
 
 (1876) *Methylene Blue* - Originally intended to be a dye, it has been described as "the first fully synthetic drug used in medicine." Methylene blue continued to be used in the second World War, where it was not well-liked by soldiers, who observed, "Even at the loo, we see, we pee, navy blue"
 

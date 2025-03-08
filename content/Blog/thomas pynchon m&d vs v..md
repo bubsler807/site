@@ -73,7 +73,7 @@ There aren't a multiplicity of Hepsies like Beatrices, but she does have somewha
 
 > Like Hepsie, Mauve is far from what she pretends. Most men are fool’d into seeing a melancholy Waif, when in reality she’s the most cheerful of little Butter-Biscuits, who has escap’d looking matronly only thanks to that constant Exertion demanded by the company of Sailors. She and Hepsie in fact share quarters in Portsea, as well as a Wardrobe noted, even here upon the Point, for its unconsider’d use of Printed Fabricks
 
-Pynchon certainly was thinking of the first mass produced synthetic dye.
+Pynchon was certainly thinking of the first mass produced synthetic dye [[chronological sketch of the chemical industry#^befd4f|Perkin's Mauve]].
 
 ----
 
