@@ -69,4 +69,4 @@ tags:
 
 —Herman Melville, Moby-Dick
 
-It is interesting how in the book. But the book never says the entire whale is white, just that the whale's head and a part of its hump are. However, Melville invests whiteness with such a metaphysical weight that the whale has taken on a mythic quality in peoples imaginations, eclipsing the novel's actual descriptions. Just look at any painting of Moby-Dick and they will have painted the leviathan a spectrally uniform white. 
+It is interesting to note that the book never describes the entire whale as white, just that the whale's head and hump are. However, Melville invests whiteness with such a metaphysical weight that the whale has taken on a mythic quality in peoples imaginations, eclipsing the novel's actual descriptions. Just look at any painting of Moby-Dick and they will have painted the leviathan a spectrally uniform white. 
