@@ -15,7 +15,11 @@ As far as I know, nobody has yet pointed out just how closely chapter 3 of M&D i
 
 Fang functions as a mirror of ploy in V. Ploy as in plot. Fang is plotting.
 
-Ploy becomes "beastlike", having his teeth pulled out and replaced with metal fangs, he embodies the grotesque, a human sliding toward bestiality., versus Fang as a beast becoming not only manlike, but a gentleman. This reversal inverts the human-monster dynamic in V., and gives us an ironic enlightenment fable. 
+Ploy becomes "beastlike", having his teeth pulled out and replaced with metal fangs, he embodies the grotesque, a human sliding toward bestiality. 
+
+In V. this contributes towards the thematics of gothic horror that is imbued throughout V. as well as the rest of his novels, and nods towards Pynchon's love of the cinematic monsters such as the wolfman, which he more explicitly fleshes out in his later novels where these themes become more explicit, such as all the monster references in Inherent Vice... 
+
+Fang as a beast becoming not only manlike, but a gentleman. This reversal inverts the human-monster dynamic in V., and gives us an ironic enlightenment fable. In the context of the chapter, the point is that the so called "gentlemen" of history, were in reality colonialists who were not, in fact, gentle.
 
 The L.E.D (Learned English Dog) is probably called such because he is partly technological. Thus we get a natural / artificial dichotomy. 
 
