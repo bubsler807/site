@@ -14,3 +14,4 @@ date: 2025-03-08
 - Mary Franklin Brown - Reading The World - Encyclopedic Writing In The Scholastic Age
 - Marshall McLuhan - The Gutenberg Galaxy
 - Lorraine J. Daston - Classifications of Knowledge in the Age of Louis XIV (Sun king : the ascendancy of French culture during the reign of Louis XIV)
+- Christian Jacob - The Library and the Book - Forms of Alexandrian Encyclopedism
