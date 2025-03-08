@@ -11,9 +11,13 @@ As far as I know, nobody has yet pointed out just how closely chapter 3 of M&D i
 ------
 ### **The Man / Beast Dichotomy**
 
-Ploy (the man) becomes "beastlike", having his teeth pulled out and replaced with metal fangs, he embodies the grotesque, a human sliding toward bestiality., versus Fang as a beast becoming not only manlike, but a gentleman. This reversal inverts the human-monster dynamic in V., and gives us an ironic enlightenment fable. 
+> he smoaks that the Learnèd English D.,— or Fang, as now he apparently wishes to be known,— in introducing them thus, is pursuing an entirely personal End.
 
-The L.E.D (Learned English Dog) is probably called such because he is partly mechanical. Thus we get a natural / artificial dichotomy. 
+Fang functions as a mirror of ploy in V. Ploy as in plot. Fang is plotting.
+
+Ploy becomes "beastlike", having his teeth pulled out and replaced with metal fangs, he embodies the grotesque, a human sliding toward bestiality., versus Fang as a beast becoming not only manlike, but a gentleman. This reversal inverts the human-monster dynamic in V., and gives us an ironic enlightenment fable. 
+
+The L.E.D (Learned English Dog) is probably called such because he is partly technological. Thus we get a natural / artificial dichotomy. 
 
 Note that Fang is only suddenly called Fang right before his repressed bloodlust returns. 
 
