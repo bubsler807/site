@@ -33,13 +33,6 @@ Another thing to note: There is also another Fang in V., Fang the cat (opposite 
 Beer/milk as the sustenance of life, blood as a symbol of predation and death. the substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst. _"There is nothing now for it but to strike the Vein, and drink deep."_, that is not entirely absent in V. : _"Ploy reached for the glass of beer, pulled it toward him and drank with a greediness which made Stencil slightly uneasy."_ 
 
 There is also an artificial / natural dichotomy here as well, with the beer in V. coming from rubber nipples. Ploy does not just revert to a man, but to a child.
-
-### **Drawn In vs. Drawn Out**
-
-In V. the characters move out of the bar, while in M&D, _"They move instead, as if drawn by some Obligation, toward the Rear of the Premises, deeper into the unlit Interior."_
-
-Reinforces the structural inversion.
-
 ### **Returning from Sea vs. Going to Sea**
 
 In _V._'s chapter the sea is the past, something that has changed the character. In _M&D_, the sea is the future, something yet to happen.
