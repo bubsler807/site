@@ -9,4 +9,4 @@ tags:
 
 Herman Melville, *Pierre: or, The Ambiguities*
 
-Discovery-as-tomb-robbing, as an act of violation as much as revelation. Echoes _The Whiteness of the Whale_ Chapter in Moby-Dick.
+Discovery-as-tomb-robbing, as an act of violation as much as revelation. Echoes _[[herman melville - the whiteness of the whale|The Whiteness of the Whale]]_ Chapter in Moby-Dick.
