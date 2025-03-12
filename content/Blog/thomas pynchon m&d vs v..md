@@ -34,7 +34,7 @@ Another thing to note: There is also another Fang in V., Fang the cat (opposite 
 
 ### **Milk vs. Blood – Sustenance and Predation**
 
-Beer/milk as the sustenance of life, blood as a symbol of predation and death. the substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst. _"There is nothing now for it but to strike the Vein, and drink deep."_, that is not entirely absent in V. : _"Ploy reached for the glass of beer, pulled it toward him and drank with a greediness which made Stencil slightly uneasy."_ 
+Beer/milk as the sustenance of life, blood as a symbol of predation and death. the substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst.
 
 There is also an artificial / natural dichotomy here as well, with the beer in V. coming from rubber nipples. Ploy does not just revert to a man, but to a child.
 ### **Returning from Sea vs. Going to Sea**
