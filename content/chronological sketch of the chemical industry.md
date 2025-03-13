@@ -1,6 +1,5 @@
 ---
 title: Chronological Sketch of the Chemical Industry
-date: 2025-02-25
 tags:
   - List
 ---

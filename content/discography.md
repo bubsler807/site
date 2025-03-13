@@ -1,6 +1,5 @@
 ---
 title: Discography
-date: 2025-02-25
 ---
 
 The date is the date of export.
