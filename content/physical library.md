@@ -6,6 +6,16 @@ tags:
 ---
 | Author                                 | Book Title                                                                                                                                  | Language | Read    |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------- |
+|                                        | Myths from Mesopotamia - Creation, The Flood, Gilgamesh, and Others (Oxford World's Classics, Stephanie Dalley Translation)                 | English  | Read    |
+|                                        | The Book of Proverbs (Heritage Press)                                                                                                       | English  |         |
+|                                        | The Holy Bible KJV                                                                                                                          | English  | Read    |
+|                                        | The Oxford Companion to Shakespeare                                                                                                         | English  |         |
+|                                        | The Oxford Companion to the Earth                                                                                                           | English  |         |
+|                                        | The Song of Songs Which is Solomon's (Heritage Press)                                                                                       | English  |         |
+|                                        | Biblia Sacra Vulgata (Webser-Greyson)                                                                                                       | Latin    |         |
+|                                        | Biblia - The Luther Bible of 1534: Complete Facsimile Edition (2 Volumes) (Taschen)                                                         | German   |         |
+|                                        | Hypnerotomachia Poliphili (Black Letter Press, 2 Volumes, 2025)                                                                             | Italian  |         |
+|                                        | Hypnerotomachia Poliphili                                                                                                                   | English  |         |
 | Ackroyd, Peter                         | Shakespeare: The Biography                                                                                                                  | English  |         |
 | Aczel, Amir D.                         | The Mystery of the Aleph: Mathematics, the Kabbalah, and the Search for Infinity                                                            | English  |         |
 | Alter, Robert                          | The Hebrew Bible (3 Volumes)                                                                                                                | English  |         |
@@ -39,6 +49,7 @@ tags:
 | Bradley, A. C.                         | Shakespearean Tragedy                                                                                                                       | English  |         |
 | Bryson, Bill                           | A Short History of Nearly Everything                                                                                                        | English  | Read    |
 | Buber, Martin                          | Moses                                                                                                                                       | English  |         |
+| Caesar, Julius                         | Commentarii de Bello Gallico (Loeb)                                                                                                         | Latin    |         |
 | Camus, Albert                          | The Myth of Sisyphus and Other Essays                                                                                                       | English  | Read    |
 | Camus, Albert                          | The Stranger                                                                                                                                | English  | Read x2 |
 | Casares, Adolfo Bioy                   | The Invention of Morel                                                                                                                      | English  | Read    |
@@ -82,7 +93,6 @@ tags:
 | Hofstadter, Douglas                    | Gödel, Escher, Bach: an Eternal Golden Braid                                                                                                | English  |         |
 | Honan, Park                            | Shakespeare: A Life                                                                                                                         | English  |         |
 | Hume, David                            | An Enquiry Concerning Human Understanding (Hackett)                                                                                         | English  | Read    |
-| ?                                      | Hypnerotomachia Poliphili                                                                                                                   | English  |         |
 | James, William                         | Writings 1878-1890 (Library of America)                                                                                                     | English  |         |
 | James, William                         | Writings 1902-1910 (Library of America)                                                                                                     | English  |         |
 | Jaspers & Bultmann                     | Myth and Christianity                                                                                                                       | English  |         |
@@ -91,8 +101,8 @@ tags:
 | Jung, Carl G.                          | Man and His Symbols                                                                                                                         | English  | Read    |
 | Jung, Carl G.                          | Modern Man in Search of a Soul                                                                                                              | English  | Read    |
 | Jünger Ernst                           | Storm of Steel (Penguin)                                                                                                                    | English  |         |
-| Kahneman, Daniel                       | Thinking, Fast and Slow                                                                                                                     | English  | Read    |
 | Kahn, Herman                           | On Thermonuclear War                                                                                                                        | English  |         |
+| Kahneman, Daniel                       | Thinking, Fast and Slow                                                                                                                     | English  | Read    |
 | Kaufmann, Walter                       | Nietzsche: Philosopher, Psychologist, Antichrist                                                                                            | English  | Read    |
 | Keegan, John                           | The First World War                                                                                                                         | English  |         |
 | Kierkegaard, Soren                     | Fear and Trembling / Repetition                                                                                                             | English  |         |
@@ -103,6 +113,7 @@ tags:
 | Leighton, Alexander H.                 | The Governing of Men - General Principles and Recommendations Based on Experience at a Japansese Relocation Camp (Princeton Legacy Library) | English  |         |
 | London, Jack                           | The Call of the Wild                                                                                                                        | English  | Read    |
 | London, Jack                           | To Build a Fire and Other Stories                                                                                                           | English  | Read    |
+| Lucretius                              | De Rerum Natura (Loeb)                                                                                                                      | Latin    |         |
 | Machen, Arthur                         | The Great God Pan and Other Horror Stories                                                                                                  | English  |         |
 | Machiavelli, Niccolo                   | The Prince                                                                                                                                  | English  | Read    |
 | Maslow, Abraham                        | Religion, Values and Peak-Experiences                                                                                                       | English  |         |
@@ -123,7 +134,6 @@ tags:
 | Mishima, Yukio                         | The Sound of Waves                                                                                                                          | English  | Read    |
 | Mishima, Yukio                         | The Temple of the Golden Pavilion                                                                                                           | English  |         |
 | Montaigne, Michel de                   | The Complete Works (Everyman's Library)                                                                                                     | English  |         |
-|                                        | Myths from Mesopotamia - Creation, The Flood, Gilgamesh, and Others (Oxford World's Classics, Stephanie Dalley Translation)                 | English  |         |
 | Naydler, Jeremy                        | In the Shadow of the Machine                                                                                                                | English  |         |
 | Nietzsche, Friedrich                   | Beyond Good and Evil (Kaufmann Translation)                                                                                                 | English  | Read x3 |
 | Nietzsche, Friedrich                   | Ecce Homo (Kaufmann Translation)                                                                                                            | English  | Read x7 |
@@ -135,9 +145,11 @@ tags:
 | Núñez, Álvar                           | Cabeza de Vaca, 3-volume set: His Account, His Life, and the Expedition of Pánfilo de Narváez (University of Nebraska Press)                | English  |         |
 | Ong, Walter J.                         | Orality and Literacy: The Technologizing of the World                                                                                       | English  |         |
 | Ovid                                   | Metamorphoses (Oxford World Classics)                                                                                                       | English  |         |
+| Ovid                                   | Heroides and Amores (Loeb)                                                                                                                  | Latin    |         |
 | Paglia, Camille                        | Break, Blow, Burn: Camille Paglia reads forty-three of the world's best poems                                                               | English  |         |
 | Persons, Russel                        | The Way of Florida                                                                                                                          | English  |         |
 | Pessoa, Fernando                       | The Book of Disquiet                                                                                                                        | English  | Read    |
+| Petronius & Seneca                     | Satyricon & Apocolocyntosis (Loeb, Gareth Schmeling Translation)                                                                            | Latin    |         |
 | Pierce, Charles Sanders                | Reasoning and the Logic of Things                                                                                                           | English  |         |
 | Plato                                  | Complete Works (Hackett)                                                                                                                    | English  | Read    |
 | Plato                                  | Five Dialogues (Hackett)                                                                                                                    | English  | Read x3 |
@@ -151,6 +163,7 @@ tags:
 | Rilke, Rainer Maria                    | Letters to a Young Poet                                                                                                                     | English  | Read    |
 | Rilke, Rainer Maria                    | Rilke on Love and Other Difficulties                                                                                                        | English  |         |
 | Rilke, Rainer Maria                    | Sonnets to Orpheus                                                                                                                          | English  |         |
+| Rimbaud                                | Complete Works, Selected Letters                                                                                                            | French   |         |
 | Rosen, Stanley                         | Metaphysics in Ordinary Language                                                                                                            | English  |         |
 | Rosen, Stanley                         | Plato's Statesman                                                                                                                           | English  |         |
 | Rosen, Stanley                         | Plato's Symposium (Commentary on Plato's Symposium)                                                                                         | English  |         |
@@ -167,14 +180,9 @@ tags:
 | Söderberg, Hjalmar                     | Doctor Glas                                                                                                                                 | English  |         |
 | Solovey, Mark                          | Shaky Foundations                                                                                                                           | English  |         |
 | Stevenson, Robert Louis                | Treasure Island                                                                                                                             | English  | Read    |
-|                                        | The Book of Proverbs (Heritage Press)                                                                                                       | English  |         |
-|                                        | The Holy Bible KJV                                                                                                                          | English  | Read    |
-|                                        | The Oxford Companion to Shakespeare                                                                                                         | English  |         |
-|                                        | The Oxford Companion to the Earth                                                                                                           | English  |         |
 | Theroux, Alexander                     | Laura Warholic: The Sexual Intellectual                                                                                                     | English  |         |
 | Theroux, Alexander                     | The Primary Colors                                                                                                                          | English  |         |
 | Theroux, Alexander                     | The Secondary Colors                                                                                                                        | English  |         |
-|                                        | The Song of Songs Which is Solomon's (Heritage Press)                                                                                       | English  |         |
 | Thompson, William Irwin                | At the Edge of History: Speculations on the Transformation of Culture                                                                       | English  |         |
 | Thompson, William Irwin                | Coming into Being: Artifacts and Texts in the Evolution of Consciousness                                                                    | English  |         |
 | Thompson, William Irwin                | Imaginary Landscape: Making Worlds of Myth and Science                                                                                      | English  |         |
@@ -196,14 +204,6 @@ tags:
 | Wittgenstein, Ludwig                   | Tractatus Logico-Philosophicus                                                                                                              | English  |         |
 | Zenith, Richard                        | Pessoa: A Biography                                                                                                                         | English  |         |
 | Zinn, Howard                           | A People's History of the United States                                                                                                     | English  | Read    |
-| Rimbaud                                | Complete Works, Selected Letters                                                                                                            | French   |         |
-|                                        | Biblia Sacra Vulgata (Webser-Greyson)                                                                                                       | Latin    |         |
-| Lucretius                              | De Rerum Natura (Loeb)                                                                                                                      | Latin    |         |
-| Petronius & Seneca                     | Satyricon & Apocolocyntosis (Loeb, Gareth Schmeling Translation)                                                                            | Latin    |         |
-| Caesar, Julius                         | Commentarii de Bello Gallico (Loeb)                                                                                                         | Latin    |         |
-| Ovid                                   | Heroides and Amores (Loeb)                                                                                                                  | Latin    |         |
-|                                        | Biblia - The Luther Bible of 1534: Complete Facsimile Edition (2 Volumes) (Taschen)                                                         | German   |         |
-|                                        | Hypnerotomachia Poliphili (Black Letter Press, 2 Volumes, 2025)                                                                             | Italian  |         |
 
 
 
