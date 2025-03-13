@@ -4,389 +4,206 @@ date: 2025-02-25
 tags:
   - List
 ---
+| Author                                 | Book Title                                                                                                                                  | Language | Read    |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------- |
+| Ackroyd, Peter                         | Shakespeare: The Biography                                                                                                                  | English  |         |
+| Aczel, Amir D.                         | The Mystery of the Aleph: Mathematics, the Kabbalah, and the Search for Infinity                                                            | English  |         |
+| Alter, Robert                          | The Hebrew Bible (3 Volumes)                                                                                                                | English  |         |
+| Anselm                                 | Basic Works (Hackett)                                                                                                                       | English  |         |
+| Anselm                                 | The Prayers and Meditations of Saint Anselm with the Proslogion                                                                             | English  |         |
+| Aristotle                              | Nichomachean Ethics (read)                                                                                                                  | English  | Read    |
+| Aristotle                              | The Basic Works of Aristotle (Richard McKeon)                                                                                               | English  |         |
+| Auden, W. H.                           | Lectures on Shakespeare                                                                                                                     | English  |         |
+| Augustine                              | Confessions (Oxford)                                                                                                                        | English  | Read    |
+| Augustine                              | The City of God (Penguin)                                                                                                                   | English  |         |
+| Babitz, Eve                            | Slow Days, Fast Company                                                                                                                     | English  | Read    |
+| Baker, Dorothy                         | Young Man with a Horn                                                                                                                       | English  |         |
+| Bancroft, H. H.                        | History of the Pacific States - Arizona and New Mexico 1530-1888                                                                            | English  |         |
+| Barthes, Roland                        | A Lover's Discourse                                                                                                                         | English  | Read    |
+| Barthes, Roland                        | Mythologies                                                                                                                                 | English  | Read    |
+| Barthes, Roland                        | S/Z                                                                                                                                         | English  |         |
+| Bataille, George                       | Theory of Religion                                                                                                                          | English  | Read    |
+| Becker, Ernest                         | The Denial of Death                                                                                                                         | English  | Read x3 |
+| Bernstein, Peter L.                    | Against the Gods: The Remarkable Story of Risk                                                                                              | English  |         |
+| Bettelheim, Bruno                      | The Uses of Enchantment - The Meaning and Importance of Fairy Tales                                                                         | English  |         |
+| Blake, William                         | Songs of Innocence and Experience (Folio Society)                                                                                           | English  | Read    |
+| Blake, William                         | The Portable Blake                                                                                                                          | English  | Read    |
+| Bloom, Harold                          | Hamlet: Poem Unlimited                                                                                                                      | English  |         |
+| Bloom, Harold                          | Shakespeare: The Invention of the Human                                                                                                     | English  |         |
+| Bloom, Harold                          | Take Arms Against a Sea of Troubles: The Power of the Reader's Mind Over a Universe of Death                                                | English  |         |
+| Bloom, Harold                          | The Anatomy of Influence                                                                                                                    | English  |         |
+| Bloom, Harold                          | The Daemon Knows: Literary Greatness and the American Sublime                                                                               | English  |         |
+| Bloom, Harold                          | The Western Canon                                                                                                                           | English  |         |
+| Bly, Robert                            | News of the Universe: Poems of Twofold Consciousness                                                                                        | English  |         |
+| Borges, Jorge Luis                     | Labyrinths                                                                                                                                  | English  | Read    |
+| Bradley, A. C.                         | Shakespearean Tragedy                                                                                                                       | English  |         |
+| Bryson, Bill                           | A Short History of Nearly Everything                                                                                                        | English  | Read    |
+| Buber, Martin                          | Moses                                                                                                                                       | English  |         |
+| Camus, Albert                          | The Myth of Sisyphus and Other Essays                                                                                                       | English  | Read    |
+| Camus, Albert                          | The Stranger                                                                                                                                | English  | Read x2 |
+| Casares, Adolfo Bioy                   | The Invention of Morel                                                                                                                      | English  | Read    |
+| Catren, Gabriel                        | Pleromatica, Or Elsinore's Trance (Translator: Thomas Murphy from French)                                                                   | English  |         |
+| César Aira                             | An Episode in the Life of a Landscape Painter                                                                                               | English  | Read    |
+| César Aira                             | The Lime Tree                                                                                                                               | English  |         |
+| César Aira                             | Veramo                                                                                                                                      | English  |         |
+| Cioran, Emile                          | The Temptation to Exist                                                                                                                     | English  |         |
+| Colarusso, John                        | Tales of the Narts: Ancient Myths and Legends of the Ossetians                                                                              | English  |         |
+| Cooper, J.C.                           | An Illustrated Encyclopaedia of Traditional Symbols (Thames and Hudson)                                                                     | English  |         |
+| Danielewski, Mark Z.                   | House of Leaves                                                                                                                             | English  |         |
+| Descartes, René                        | Discourse on Method and Meditations on First Philosophy (Hackett)                                                                           | English  | Read    |
+| Dickens, Charles                       | A Christmas Carol and Other Christmas Writings                                                                                              | English  |         |
+| Dilthey, Wilhelm                       | Selected Works, Volume V: Poetry and Experience                                                                                             | English  |         |
+| Dorten, Mark van                       | Shakespeare                                                                                                                                 | English  |         |
+| Doty, William G.                       | Mythography - The Study of Myths and Rituals (Second Edition)                                                                               | English  |         |
+| Dumas, Alexandre                       | The Count of Monte Cristo (Everyman's)                                                                                                      | English  |         |
+| Ebert, John David                      | Archai: A Cosmogonic Poem                                                                                                                   | English  | Read    |
+| Ebert, John David                      | Art After Metaphysics                                                                                                                       | English  | Read    |
+| Ebert, John David                      | Giant Humans, Tiny Worlds                                                                                                                   | English  |         |
+| Ebert, John David                      | The New Media Invasion                                                                                                                      | English  |         |
+| Emerson, Ralph Waldo                   | Essays I & II (Heritage Press)                                                                                                              | English  |         |
+| Emerson, Ralph Waldo                   | Self Reliance and Other Essays                                                                                                              | English  | Read    |
+| Empson, William                        | Essays on Shakespeare                                                                                                                       | English  |         |
+| Epictetus                              | Discourses, Fragments, Handbook (Oxford World Classics)                                                                                     | English  |         |
+| Faulkner, William                      | Absalom, Absalom                                                                                                                            | English  |         |
+| Fischer, Mark                          | K-Punk                                                                                                                                      | English  |         |
+| Frankfurt, Harry                       | On Bullshit                                                                                                                                 | English  | Read    |
+| Fry, Stephen                           | The Ode Less Travelled                                                                                                                      | English  |         |
+| Gass, William H.                       | The William H. Gass Reader                                                                                                                  | English  |         |
+| Graves, Robert                         | The Greek Myths (2 volumes) (Folio Society)                                                                                                 | English  |         |
+| Gray, John                             | Straw Dogs                                                                                                                                  | English  | Read    |
+| Grimm Brothers                         | Grimm's Fairy Tales (2 Volumes) (Scolar Press)                                                                                              | English  |         |
+| Grimm Brothers                         | The Original Folk & Fairy Tales of the Brothers Grimm (Princeton) (Editor: Zipes)                                                           | English  |         |
+| Gumbrecht, Hans Ulrich                 | Production of Presence: What Meaning Cannot Convey                                                                                          | English  |         |
+| Hamilton, Edith                        | Mythology                                                                                                                                   | English  | Read    |
+| Havelock, Eric A.                      | The Muse Learns to Write - Reflections on Orality and Literacy from Antiquity to the Present                                                | English  |         |
+| Hegel, Georg Wilhelm Friedrich         | Phenomenology of Spirit (Miller Translation)                                                                                                | English  |         |
+| Hesiod                                 | Works and Days (Penguin)                                                                                                                    | English  | Read    |
+| Hobbes, Thomas                         | Leviathan (Penguin)                                                                                                                         | English  |         |
+| Hofstadter, Douglas                    | Gödel, Escher, Bach: an Eternal Golden Braid                                                                                                | English  |         |
+| Honan, Park                            | Shakespeare: A Life                                                                                                                         | English  |         |
+| Hume, David                            | An Enquiry Concerning Human Understanding (Hackett)                                                                                         | English  | Read    |
+| ?                                      | Hypnerotomachia Poliphili                                                                                                                   | English  |         |
+| James, William                         | Writings 1878-1890 (Library of America)                                                                                                     | English  |         |
+| James, William                         | Writings 1902-1910 (Library of America)                                                                                                     | English  |         |
+| Jaspers & Bultmann                     | Myth and Christianity                                                                                                                       | English  |         |
+| Judge, Michael S.                      | Lyrics of the Crossing                                                                                                                      | English  |         |
+| Judge, Michael S.                      | The Scenarists of Europe                                                                                                                    | English  |         |
+| Jung, Carl G.                          | Man and His Symbols                                                                                                                         | English  | Read    |
+| Jung, Carl G.                          | Modern Man in Search of a Soul                                                                                                              | English  | Read    |
+| Jünger Ernst                           | Storm of Steel (Penguin)                                                                                                                    | English  |         |
+| Kahneman, Daniel                       | Thinking, Fast and Slow                                                                                                                     | English  | Read    |
+| Kahn, Herman                           | On Thermonuclear War                                                                                                                        | English  |         |
+| Kaufmann, Walter                       | Nietzsche: Philosopher, Psychologist, Antichrist                                                                                            | English  | Read    |
+| Keegan, John                           | The First World War                                                                                                                         | English  |         |
+| Kierkegaard, Soren                     | Fear and Trembling / Repetition                                                                                                             | English  |         |
+| Kierkegaard, Soren                     | The Sickness unto Death                                                                                                                     | English  |         |
+| Krakauer, Jon                          | Into Thin Air                                                                                                                               | English  |         |
+| Kreeft, Peter                          | Socratic Logic                                                                                                                              | English  | Read    |
+| Land, Nick                             | Fanged Noumena                                                                                                                              | English  |         |
+| Leighton, Alexander H.                 | The Governing of Men - General Principles and Recommendations Based on Experience at a Japansese Relocation Camp (Princeton Legacy Library) | English  |         |
+| London, Jack                           | The Call of the Wild                                                                                                                        | English  | Read    |
+| London, Jack                           | To Build a Fire and Other Stories                                                                                                           | English  | Read    |
+| Machen, Arthur                         | The Great God Pan and Other Horror Stories                                                                                                  | English  |         |
+| Machiavelli, Niccolo                   | The Prince                                                                                                                                  | English  | Read    |
+| Maslow, Abraham                        | Religion, Values and Peak-Experiences                                                                                                       | English  |         |
+| Mauss, Marcel                          | The Gift                                                                                                                                    | English  | Read    |
+| McCarthy, Cormac                       | All the Pretty Horses                                                                                                                       | English  | Read x4 |
+| McCarthy, Cormac                       | Blood Meridian; or, The Evening Redness in the West                                                                                         | English  | Read    |
+| McCullough, David                      | 1776                                                                                                                                        | English  |         |
+| McPherson, James M.                    | Battle Cry of Freedom: The Civil War Era, 1846-1865 (Oxford History of the United States)                                                   | English  |         |
+| Melville, Herman                       | Moby Dick                                                                                                                                   | English  |         |
+| Middlekauff, Robert                    | The Glorious Cause: The American Revolution, 1763-1789 (Oxford History of the United States) (Revised Edition)                              | English  |         |
+| Migiel, Marilyn                        | The Ethical Dimension of the 'Decameron'                                                                                                    | English  |         |
+| Miles, Jack                            | Christ: A Crisis in the Life of God                                                                                                         | English  |         |
+| Miles, Jack                            | God: A Biography                                                                                                                            | English  |         |
+| Mill, John Stuart                      | On Liberty, Utilitarianism and Other Essays                                                                                                 | English  | Read    |
+| Milton, John                           | English Poems & Comus, 1645 (Scolar Press Facsimile)                                                                                        | English  |         |
+| Mishima, Yukio                         | Confessions of a Mask                                                                                                                       | English  |         |
+| Mishima, Yukio                         | The Sailor Who Fell From Grace With the Sea                                                                                                 | English  |         |
+| Mishima, Yukio                         | The Sound of Waves                                                                                                                          | English  | Read    |
+| Mishima, Yukio                         | The Temple of the Golden Pavilion                                                                                                           | English  |         |
+| Montaigne, Michel de                   | The Complete Works (Everyman's Library)                                                                                                     | English  |         |
+|                                        | Myths from Mesopotamia - Creation, The Flood, Gilgamesh, and Others (Oxford World's Classics, Stephanie Dalley Translation)                 | English  |         |
+| Naydler, Jeremy                        | In the Shadow of the Machine                                                                                                                | English  |         |
+| Nietzsche, Friedrich                   | Beyond Good and Evil (Kaufmann Translation)                                                                                                 | English  | Read x3 |
+| Nietzsche, Friedrich                   | Ecce Homo (Kaufmann Translation)                                                                                                            | English  | Read x7 |
+| Nietzsche, Friedrich                   | On the Genealogy of Morals (Kaufmann Translation)                                                                                           | English  | Read x2 |
+| Nietzsche, Friedrich                   | The Birth of Tragedy (Kaufmann Translation)                                                                                                 | English  | Read    |
+| Nietzsche, Friedrich                   | The Gay Science (Kaufmann Translation)                                                                                                      | English  | Read x5 |
+| Nietzsche, Friedrich                   | The Will to Power                                                                                                                           | English  |         |
+| Nietzsche, Friedrich                   | Thus Spoke Zarathustra (Kaufmann Translation)                                                                                               | English  | Read x2 |
+| Núñez, Álvar                           | Cabeza de Vaca, 3-volume set: His Account, His Life, and the Expedition of Pánfilo de Narváez (University of Nebraska Press)                | English  |         |
+| Ong, Walter J.                         | Orality and Literacy: The Technologizing of the World                                                                                       | English  |         |
+| Ovid                                   | Metamorphoses (Oxford World Classics)                                                                                                       | English  |         |
+| Paglia, Camille                        | Break, Blow, Burn: Camille Paglia reads forty-three of the world's best poems                                                               | English  |         |
+| Persons, Russel                        | The Way of Florida                                                                                                                          | English  |         |
+| Pessoa, Fernando                       | The Book of Disquiet                                                                                                                        | English  | Read    |
+| Pierce, Charles Sanders                | Reasoning and the Logic of Things                                                                                                           | English  |         |
+| Plato                                  | Complete Works (Hackett)                                                                                                                    | English  | Read    |
+| Plato                                  | Five Dialogues (Hackett)                                                                                                                    | English  | Read x3 |
+| Plato                                  | The Republic (Allan Bloom Translation)                                                                                                      | English  | Read    |
+| Poe, Edgar Allan                       | The Narrative of Arthur Gordon Pym of Nantucket                                                                                             | English  |         |
+| Pynchon, Thomas                        | Gravity's Rainbow                                                                                                                           | English  |         |
+| Pynchon, Thomas                        | Mason & Dixon                                                                                                                               | English  |         |
+| Pynchon, Thomas                        | The Crying of Lot 49                                                                                                                        | English  | Read x3 |
+| Pynchon, Thomas                        | V.                                                                                                                                          | English  | Read x2 |
+| Ramachandran, V. S. & Sandra Blakeslee | Phantoms in the Brain                                                                                                                       | English  | Read    |
+| Rilke, Rainer Maria                    | Letters to a Young Poet                                                                                                                     | English  | Read    |
+| Rilke, Rainer Maria                    | Rilke on Love and Other Difficulties                                                                                                        | English  |         |
+| Rilke, Rainer Maria                    | Sonnets to Orpheus                                                                                                                          | English  |         |
+| Rosen, Stanley                         | Metaphysics in Ordinary Language                                                                                                            | English  |         |
+| Rosen, Stanley                         | Plato's Statesman                                                                                                                           | English  |         |
+| Rosen, Stanley                         | Plato's Symposium (Commentary on Plato's Symposium)                                                                                         | English  |         |
+| Rosen, Stanley                         | The Language of Love (Commentary on Plato's Phaedrus)                                                                                       | English  |         |
+| Roth, Phillip                          | American Pastoral                                                                                                                           | English  |         |
+| Rousseau, Jean Jacques                 | A Discourse on Inequality (Penguin)                                                                                                         | English  |         |
+| Rousseau, Jean Jacques                 | Reveries of the Solitary Walker (Penguin)                                                                                                   | English  | Read    |
+| Rousseau, Jean Jacques                 | The Social Contract (Penguin)                                                                                                               | English  |         |
+| Salinger, J. D.                        | The Catcher in the Rye                                                                                                                      | English  | Read    |
+| Sartre, Jean Paul                      | Being and Nothingness                                                                                                                       | English  |         |
+| Seneca                                 | On the Shortness of Life                                                                                                                    | English  | Read    |
+| Shelley, Mary                          | Frankenstein                                                                                                                                | English  |         |
+| Sloterdijk, Peter                      | Neither Sun nor Death                                                                                                                       | English  |         |
+| Söderberg, Hjalmar                     | Doctor Glas                                                                                                                                 | English  |         |
+| Solovey, Mark                          | Shaky Foundations                                                                                                                           | English  |         |
+| Stevenson, Robert Louis                | Treasure Island                                                                                                                             | English  | Read    |
+|                                        | The Book of Proverbs (Heritage Press)                                                                                                       | English  |         |
+|                                        | The Holy Bible KJV                                                                                                                          | English  | Read    |
+|                                        | The Oxford Companion to Shakespeare                                                                                                         | English  |         |
+|                                        | The Oxford Companion to the Earth                                                                                                           | English  |         |
+| Theroux, Alexander                     | Laura Warholic: The Sexual Intellectual                                                                                                     | English  |         |
+| Theroux, Alexander                     | The Primary Colors                                                                                                                          | English  |         |
+| Theroux, Alexander                     | The Secondary Colors                                                                                                                        | English  |         |
+|                                        | The Song of Songs Which is Solomon's (Heritage Press)                                                                                       | English  |         |
+| Thompson, William Irwin                | At the Edge of History: Speculations on the Transformation of Culture                                                                       | English  |         |
+| Thompson, William Irwin                | Coming into Being: Artifacts and Texts in the Evolution of Consciousness                                                                    | English  |         |
+| Thompson, William Irwin                | Imaginary Landscape: Making Worlds of Myth and Science                                                                                      | English  |         |
+| Thompson, William Irwin                | Pacific Shift                                                                                                                               | English  | Read    |
+| Thompson, William Irwin                | The American Replacement of Nature: The Everyday Acts and Outrageous Evolution of Economic Life                                             | English  | Read    |
+| Thompson, William Irwin                | The Time Falling Bodies Take to Light: Mythology, Sexuality & the Origins of Culture                                                        | English  |         |
+| Thoreau, Henry David                   | Walden and Other Writings                                                                                                                   | English  | Read x3 |
+| Tolstoy, Leo                           | Anna Karenina (Maude, Everyman's)                                                                                                           | English  | Read    |
+| Tolstoy, Leo                           | Collected Shorter Fiction (2 Volumes) (Maude, Everyman's)                                                                                   | English  |         |
+| Tolstoy, Leo                           | War and Peace (3 Volumes) (Maude, Everyman's)                                                                                               | English  |         |
+| Tuft, Edward                           | Visual Explanations                                                                                                                         | English  |         |
+| Twain, Mark                            | The Adventures of Huckleberry Finn                                                                                                          | English  |         |
+| Vicedo, Marga                          | The Nature and Nurture of Love                                                                                                              | English  |         |
+| Whitehead, Alfred North                | Adventures of Ideas                                                                                                                         | English  |         |
+| Whitehead, Alfred North                | Modes of Thought                                                                                                                            | English  |         |
+| Whitehead, Alfred North                | Process and Reality                                                                                                                         | English  |         |
+| Whitehead, Alfred North                | Science and the Modern World                                                                                                                | English  | Read    |
+| Williams, John                         | Stoner                                                                                                                                      | English  | Read    |
+| Wittgenstein, Ludwig                   | Tractatus Logico-Philosophicus                                                                                                              | English  |         |
+| Zenith, Richard                        | Pessoa: A Biography                                                                                                                         | English  |         |
+| Zinn, Howard                           | A People's History of the United States                                                                                                     | English  | Read    |
+| Rimbaud                                | Complete Works, Selected Letters                                                                                                            | French   |         |
+|                                        | Biblia Sacra Vulgata (Webser-Greyson)                                                                                                       | Latin    |         |
+| Lucretius                              | De Rerum Natura (Loeb)                                                                                                                      | Latin    |         |
+| Petronius & Seneca                     | Satyricon & Apocolocyntosis (Loeb, Gareth Schmeling Translation)                                                                            | Latin    |         |
+| Caesar, Julius                         | Commentarii de Bello Gallico (Loeb)                                                                                                         | Latin    |         |
+| Ovid                                   | Heroides and Amores (Loeb)                                                                                                                  | Latin    |         |
+|                                        | Biblia - The Luther Bible of 1534: Complete Facsimile Edition (2 Volumes) (Taschen)                                                         | German   |         |
+|                                        | Hypnerotomachia Poliphili (Black Letter Press, 2 Volumes, 2025)                                                                             | Italian  |         |
 
-A currently incomplete list of books that I own physical copies of.
-### English
-Ackroyd, Peter - Shakespeare: The Biography
 
-Aczel, Amir D. - The Mystery of the Aleph: Mathematics, the Kabbalah, and the Search for Infinity
 
-Alter, Robert - The Hebrew Bible (3 Volumes)
-
-Anselm - Basic Works (Hackett)
-
-Anselm - The Prayers and Meditations of Saint Anselm with the Proslogion
-
-Aristotle - Nichomachean Ethics (read)
-
-Aristotle - The Basic Works of Aristotle (Richard McKeon)
-
-Auden, W. H. - Lectures on Shakespeare
-
-Augustine - Confessions (Oxford) (read)
-
-Augustine - The City of God (Penguin)
-
-Babitz, Eve - Slow Days, Fast Company (read)
-
-Baker, Dorothy - Young Man with a Horn
-
-Bancroft, H. H. - History of the Pacific States - Arizona and New Mexico 1530-1888
-
-Barthes, Roland - A Lover's Discourse (read)
-
-Barthes, Roland - Mythologies (read)
-
-Barthes, Roland - S/Z
-
-Bataille, George - Theory of Religion (read)
-
-Becker, Ernest - The Denial of Death (read x3)
-
-Bernstein, Peter L. - Against the Gods: The Remarkable Story of Risk
-
-Bettelheim, Bruno - The Uses of Enchantment
-
-Blake, William - Songs of Innocence and Experience (Folio) (read)
-
-Blake, William - The Portable Blake (Read)
-
-Bloom, Harold - Hamlet: Poem Unlimited
-
-Bloom, Harold - Shakespeare: The Invention of the Human
-
-Bloom, Harold - Take Arms Against a Sea of Troubles: The Power of the Reader's Mind Over a Universe of Death
-
-Bloom, Harold - The Anatomy of Influence
-
-Bloom, Harold - The Daemon Knows: Literary Greatness and the American Sublime
-
-Bloom, Harold - The Western Canon
-
-Bly, Robert - News of the Universe: Poems of Twofold Consciousness
-
-Borges, Jorge Luis - Labyrinths (read)
-
-Bradley, A. C. - Shakespearean Tragedy
-
-Bryson, Bill - A Short History of Nearly Everything (read)
-
-Buber, Martin - Moses
-
-Camus, Albert - The Myth of Sisyphus and Other Essays (read)
-
-Camus, Albert - The Stranger (read)
-
-Casares, Adolfo Bioy - The Invention of Morel (read)
-
-Catren, Gabriel - Pleromatica, Or Elsinore's Trance (Thomas Murphy)
-
-César Aira - An Episode in the Life of a Landscape Painter (read)
-
-César Aira - The Lime Tree
-
-César Aira - Veramo
-
-Cioran, Emile - The Temptation to Exist 
-
-Colarusso, John - Tales of the Narts: Ancient Myths and Legends of the Ossetians
-
-Danielewski, Mark Z. - House of Leaves
-
-Descartes, René - Discourse on Method and Meditations on First Philosophy (Hackett) (read)
-
-Dickens, Charles - A Christmas Carol and Other Christmas Writings
-
-Dilthey, Wilhelm - Selected Works, Volume V: Poetry and Experience
-
-Dorten, Mark van - Shakespeare
-
-Dumas, Alexandre - The Count of Monte Cristo (Everyman's)
-
-Ebert, John David - Archai: A Cosmogonic Poem (read)
-
-Ebert, John David - Art After Metaphysics (read)
-
-Ebert, John David - Giant Humans, Tiny Worlds
-
-Ebert, John David - The New Media Invasion
-
-Emerson, Ralph Waldo - Essays I & II (Heritage Press)
-
-Emerson, Ralph Waldo - Self Reliance and Other Essays (read)
-
-Empson, William - Essays on Shakespeare
-
-Epictetus - Discourses, Fragments, Handbook (read)
-
-Faulkner, William - Absalom, Absalom
-
-Fischer, Mark - K-Punk
-
-Frankfurt, Harry - On Bullshit (read)
-
-Fry, Stephen - The Ode Less Travelled
-
-Graves, Robert - The Greek Myths (2 volumes) (folio)
-
-Gray, John - Straw Dogs (read)
-
-Grimm Brothers - Grimm's Fairy Tales (2 Volumes) (Scolar Press)
-
-Grimm, Zipes (Editor) - The Original Folk & Fairy Tales of the Brothers Grimm (Princeton)
-
-Gumbrecht, Hans Ulrich - Production of Presence: What Meaning Cannot Convey
-
-Hamilton, Edith - Mythology (read)
-
-Havelock, Eric A. - The Muse Learns to Write - Reflections on Orality and Literacy from Antiquity to the Present
-
-Hegel - Phenomenology of Spirit (Miller)
-
-Hesiod - Works and Days (Penguin) (read)
-
-Hobbes, Thomas - Leviathan (Penguin)
-
-Hofstadter, Douglas - Gödel, Escher, Bach: an Eternal Golden Braid
-
-Honan, Park - Shakespeare: A Life
-
-Hume, David - An Enquiry Concerning Human Understanding (Hackett) (read)
-
-James, William - Writings 1878-1890
-
-James, William - Writings 1902-1910
-
-Jaspers & Bultmann - Myth and Christianity
-
-Judge, Michael S. - Lyrics of the Crossing
-
-Judge, Michael S. - The Scenarists of Europe
-
-Jung, Carl G. - Man and His Symbols (read)
-
-Jung, Carl G. - Modern Man in Search of a Soul (read)
-
-Jünger Ernst - Storm of Steel (Penguin)
-
-Kahneman, Daniel - Thinking, Fast and Slow (read)
-
-Kahn, Herman - On Thermonuclear War
-
-Kaufmann - Nietzsche: Philosopher, Psychologist, Antichrist (read)
-
-Keegan, John - The First World War
-
-Kierkegaard, Soren - Fear and Trembling / Repetition
-
-Kierkegaard, Soren - The Sickness unto Death
-
-Krakauer, Jon - Into Thin Air
-
-Kreeft, Peter - Socratic Logic
-
-Land, Nick - Fanged Noumena
-
-London, Jack - The Call of the Wild (read)
-
-London, Jack - To Build a Fire and Other Stories (read)
-
-Machen, Arthur - The Great God Pan and Other Horror Stories
-
-Machiavelli, Niccolo - The Prince (read)
-
-Maslow, Abraham - Religion, Values and Peak-Experiences
-
-Mauss, Marcel - The Gift (read)
-
-McCarthy, Cormac - All the Pretty Horses (read x4)
-
-McCarthy, Cormac - Blood Meridian; or, The Evening Redness in the West (read)
-
-McCullough, David - 1776
-
-McPherson, James M. - Battle Cry of Freedom: The Civil War Era, 1846-1865 (Oxford History of the United States)
-
-Melville, Herman - Moby Dick
-
-Middlekauff, Robert - The Glorious Cause: The American Revolution, 1763-1789 (Oxford History of the United States) (Revised Edition)
-
-Migiel, Marilyn - The Ethical Dimension of the 'Decameron'
-
-Miles, Jack - Christ: A Crisis in the Life of God
-
-Miles, Jack - God: A Biography
-
-Mill, John Stuart - On Liberty, Utilitarianism and Other Essays (read)
-
-Milton, John - English Poems & Comus, 1645 (Scolar Press Facsimile)
-
-Mishima, Yukio - Confessions of a Mask
-
-Mishima, Yukio - The Sailor Who Fell From Grace With the Sea 
-
-Mishima, Yukio - The Sound of Waves (read)
-
-Mishima, Yukio - The Temple of the Golden Pavilion
-
-Montaigne, Michel de - The Complete Works (Everyman's)
-
-Naydler, Jeremy - In the Shadow of the Machine
-
-Nietzsche, Friedrich - Beyond Good and Evil (Kaufmann) (read x3)
-
-Nietzsche, Friedrich - Ecce Homo (Kaufmann) (read x7)
-
-Nietzsche, Friedrich - On the Genealogy of Morals (Kaufmann) (read x2)
-
-Nietzsche, Friedrich - The Birth of Tragedy / (read)
-
-Nietzsche, Friedrich - The Gay Science (Kaufmann) (read x5)
-
-Nietzsche, Friedrich - The Will to Power 
-
-Nietzsche, Friedrich - Thus Spoke Zarathustra (Kaufmann) (read x2)
-
-Núñez, Álvar - Cabeza de Vaca, 3-volume set: His Account, His Life, and the Expedition of Pánfilo de Narváez (University of Nebraska Press)
-
-Ong, Walter J. - Orality and Literacy: The Technologizing of the World
-
-Ovid - Metamorphoses (Oxford)
-
-Paglia, Camille - Break, Blow, Burn: Camille Paglia reads forty-three of the world's best poems
-
-Persons, Russel - The Way of Florida
-
-Pessoa, Fernando - The Book of Disquiet (read)
-
-Pierce, Charles Sanders - Reasoning and the Logic of Things
-
-Plato - Complete Works (Hackett) (read)
-
-Plato - Five Dialogues (Hackett) (read x3)
-
-Plato - The Republic (Allan Bloom) (read)
-
-Poe, Edgar Allan - The Narrative of Arthur Gordon Pym of Nantucket
-
-Pynchon, Thomas - Gravity's Rainbow
-
-Pynchon, Thomas - Mason & Dixon
-
-Pynchon, Thomas - The Crying of Lot 49 (read x2)
-
-Pynchon, Thomas - V. (read x2)
-
-Ramachandran, V. S. & Sandra Blakeslee - Phantoms in the Brain (read)
-
-Rilke, Rainer Maria - Letters to a Young Poet (read)
-
-Rilke, Rainer Maria - Rilke on Love and Other Difficulties
-
-Rilke, Rainer Maria - Sonnets to Orpheus
-
-Rosen, Stanley - Metaphysics in Ordinary Language
-
-Rosen, Stanley - Plato's Statesman
-
-Rosen, Stanley - Plato's Symposium
-
-Rosen, Stanley - The Language of Love (Commentary on Plato's Phaedrus)
-
-Roth, Phillip - American Pastoral
-
-Rousseau, Jean Jacques - A Discourse on Inequality (Penguin)
-
-Rousseau, Jean Jacques - Reveries of the Solitary Walker (Penguin) (read)
-
-Rousseau, Jean Jacques - The Social Contract (Penguin)
-
-Salinger, J. D. - The Catcher in the Rye
-
-Sartre, Jean Paul - Being and Nothingness
-
-Seneca - On the Shortness of Life (read)
-
-Shelley, Mary - Frankenstein
-
-Sloterdijk, Peter - Neither Sun nor Death
-
-Söderberg, Hjalmar - Doctor Glas
-
-Solovey, Mark - Shaky Foundations
-
-Stevenson, Robert Louis - Treasure Island (read)
-
-The Book of Proverbs (Heritage Press)
-
-The Holy Bible KJV (read)
-
-The Oxford Companion to Shakespeare
-
-The Oxford Companion to the Earth
-
-Theroux, Alexander - Laura Warholic: The Sexual Intellectual
-
-Theroux, Alexander - The Primary Colors
-
-Theroux, Alexander - The Secondary Colors
-
-The Song of Songs Which is Solomon's (Heritage Press)
-
-Thompson, William Irwin - At the Edge of History: Speculations on the Transformation of Culture
-
-Thompson, William Irwin - Coming into Being: Artifacts and Texts in the Evolution of Consciousness
-
-Thompson, William Irwin - Imaginary Landscape: Making Worlds of Myth and Science
-
-Thompson, William Irwin - Pacific Shift (read)
-
-Thompson, William Irwin - The American Replacement of Nature: The Everyday Acts and Outrageous Evolution of Economic Life (read)
-
-Thompson, William Irwin - The Time Falling Bodies Take to Light: Mythology, Sexuality & the Origins of Culture
-
-Thoreau, Henry David - Walden and Other Writings (read x3)
-
-Tolstoy, Leo - Anna Karenina (Maude, Everyman's) (read)
-
-Tolstoy, Leo - Collected Shorter Fiction (2 Volumes) (Maude, Everyman's)
-
-Tolstoy, Leo - War and Peace (3 Volumes) (Maude, Everyman's)
-
-Tuft, Edward - Visual Explanations
-
-Twain, Mark - The Adventures of Huckleberry Finn
-
-Unknown - Hypnerotomachia Poliphili
-
-Vicedo, Marga - The Nature and Nurture of Love
-
-Whitehead, Alfred North - Adventures of Ideas
-
-Whitehead, Alfred North - Modes of Thought
-
-Whitehead, Alfred North - Process and Reality
-
-Whitehead, Alfred North - Science and the Modern World (read)
-
-Williams, John - Stoner (read)
-
-Wittgenstein, Ludwig - Tractatus Logico-Philosophicus
-
-Zinn, Howard - A People's History of the United States (read)
-### French
-
-Rimbaud, Complete Works, Selected Letters
-### Latin
-
-Biblia Sacra Vulgata (Webser-Greyson)
-
-Lucretius - De Rerum Natura (Loeb)
-
-Petronius & Seneca - Satyricon & Apocolocyntosis (Loeb, Gareth Schmeling)
-
-Caesar, Julius - Commentarii de Bello Gallico (Loeb)
-
-Ovid: Heroides and Amores (Loeb)
-### German
-Biblia - The Luther Bible of 1534: Complete Facsimile Edition (2 Volumes) (Taschen)
