@@ -19,7 +19,7 @@ The date is the date of export.
 ![[DungeonBit 2025-02-28 1234.mp3]]
 
 ### 2024-12-31 - Have Yourself a Merry Little Christmas
-2025/02/28: I half-assed the vocals and couldn't be bothered to record more than a couple takes. Maybe I will rerecord them next Christmas, but it's done for now. 
+
 ![[Merry Little Christmas 2024-12-31 1728.mp3]]
 
 ### 2024-12-12 - POP-116 (Early Version)
