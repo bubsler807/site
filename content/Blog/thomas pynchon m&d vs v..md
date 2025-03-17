@@ -6,7 +6,7 @@ tags:
 ---
 Mason and Dixon is, like Gravity's Rainbow (V2), a return to, a reconsideration, and reconfiguration of the themes and scenes of his first novel V. Both books play with the symbol of V and its semiotic ambiguity as to whether it is compressing downwards or dissipating upwards (notably the opposite of classical, "chain-of-being"-esque metaphysics, if anything, the V symbol points to spiritual dispersions stemming from a material god, another possibility would be polytheism) whether it is a centrifugal, scattering history and meaning outward, or centripetal, drawing inward. It functions much like the symbol of a Cross in a way, a union of opposites... of the material and the spiritual, the sacred and the profane. But, it is not so much a union of opposites but rather a confusion of opposites.
 
-As far as I know, nobody has yet pointed out just how closely chapter 3 of M&D in particular mirrors chapter 1 of V., so I will go ahead and explain:
+As far as I know, nobody has yet pointed out just how closely chapter 3 of M&D in particular mirrors chapter 1 of V.
 
 ------
 ### **The Man / Beast Dichotomy**
@@ -17,9 +17,9 @@ Fang functions as a mirror of ploy in V. Ploy as in plot. Fang is plotting.
 
 Ploy becomes "beastlike", having his teeth pulled out and replaced with metal fangs, he embodies the grotesque, a human sliding toward bestiality. 
 
-In V. this contributes towards the thematics of gothic horror that is imbued throughout V. as well as the rest of his novels, and nods towards Pynchon's love of the cinematic monsters such as the wolfman, which he more explicitly fleshes out in his later novels where these themes become more explicit, such as all the monster references in Inherent Vice... 
+In V. this contributes towards the thematics of gothic horror that is imbued throughout V. as well as the rest of his novels, and nods towards Pynchon's love of the cinematic monsters such as the wolfman, and in his later novels these themes become more explicit, such as all the monster references in Inherent Vice... 
 
-Fang as a beast becoming not only manlike, but a gentleman. This reversal inverts the human-monster dynamic in V., and gives us an ironic enlightenment fable. In the context of the chapter, the point is that the so called "gentlemen" of history, were in reality colonialists who were not, in fact, gentle.
+Fang as a beast becoming not only manlike, but a gentleman. This move to invert the human-monster dynamic in V. gives us an ironic enlightenment fable. In the context of the chapter, the point is that the so called "gentlemen" of history, were in reality colonialists who were not, in fact, gentle.
 
 The L.E.D (Learned English Dog) is probably called such because he is partly technological. Thus we get a natural / artificial dichotomy. 
 
@@ -46,11 +46,6 @@ In _V._'s chapter the sea is the past, something that has changed the character.
 The English name _Friday_ comes from the Old English __frīġedæġ__, meaning the "day of Frig", a result of an old convention associating the Nordic goddess Frigg with the Roman goddess Venus after whom the planet was named.
 
 Mason & Dixon are told by Hepsie that they are to go to sea on a Friday, they are travelling on a mission to measure the transit of venus (V).
-
-### **Supernatural - Preturnatural**
-
-Both Ploy and L.E.D are adjacent to the supernatural.
-
 ### **Hepsie vs. Buffo**
 
 > residing half out of doors, fram’d in cabl’d timbers wash’d in from a wreck of long ago, an old piece of awning held by a gnaw’d split, ancient Euphroe between her and the sky with its varied Menace, sits Dark Hepsie, the Pythoness of the Point.
