@@ -10,4 +10,4 @@ tags:
 
 —@LandsharkRides 3/6/23
 
-One of the finest tweets to ever be composed. When I first saw it back in 23, I almost died laughing, but it didn't catch on till a couple years later it has now become a copypasta. I have been vindicated.
+One of the finest tweets to ever be composed. It didn't catch on for a couple years, but it has now become a copypasta.
