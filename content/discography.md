@@ -4,6 +4,10 @@ title: Discography
 
 The date is the date of export.
 
+### 2025-03-29 - Afraid
+
+![[POP157 2025-03-29 1650.mp3]]
+
 ### 2025-03-18 - In The Distance
 ![[POP150 2025-03-18 1939.mp3]]
 
