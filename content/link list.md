@@ -46,5 +46,8 @@ tags:
 ### Interesting
 - https://www.loc.gov/pictures/search/?q=mrg&sp=1&st=gallery - 11,000 public domain photos of American roadside attractions photographed in broad daylight without people by John Margolies
 - [Visual Connection Engine](https://river.maxbittker.com/) - Visual Connection Engine
-- [Ross Spiral Curriculum](https://spiral.ross.org/spiral/#/) - An education plan based on the concept of the individual reliving the history of developments in human consciousness chronologically (ontogeny recapitulates phylogeny).
+- [Lindisfarne Tapes](https://centerforneweconomics.org/envision/legacy/lindisfarne-tapes/) - Audio recordings on ecology, history and spirituality from the Lindisfarne Association founded by William Irwin Thompson
+- [Ross Spiral Curriculum](https://spiral.ross.org/spiral/#/) - An education plan based on the concept of the individual reliving the history of developments in human consciousness chronologically (ontogeny recapitulates phylogeny). Developed by William Irwin Thompson and Ralph Abraham.
 - https://www.oldmapsonline.org/en/history/regions - Interactive map with timeline + historical maps
+- https://encyclopedia.uia.org/ - Encyclopedia of World Problems and Human Potential
+

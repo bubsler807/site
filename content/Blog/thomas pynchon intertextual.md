@@ -1,9 +1,11 @@
 ---
-title: On the 3rd Chapter of Thomas Pynchon's Mason & Dixon as a Mirror Image of the 1st Chapter of V.
+title: Intertextual Resonances in the works of Thomas Pynchon
 date: 2025-03-08
 tags:
   - Literature
 ---
+# On the 3rd Chapter of Thomas Pynchon's Mason & Dixon as a Mirror Image of the 1st Chapter of V.
+
 Mason and Dixon is, like Gravity's Rainbow (V2), a return to, a reconsideration, and reconfiguration of the themes and scenes of his first novel V. Both books play with the symbol of V and its semiotic ambiguity as to whether it is compressing downwards or dissipating upwards (notably the opposite of classical, "chain-of-being"-esque metaphysics, if anything, the V symbol points to spiritual dispersions stemming from a material god, another possibility would be polytheism) whether it is a centrifugal, scattering history and meaning outward, or centripetal, drawing inward. It functions much like the symbol of a Cross in a way, a union of opposites... of the material and the spiritual, the sacred and the profane. But, it is not so much a union of opposites but rather a confusion of opposites.
 
 As far as I know, nobody has yet pointed out just how closely chapter 3 of M&D in particular mirrors chapter 1 of V.
@@ -31,7 +33,11 @@ Another thing to note: There is also another Fang in V., Fang the cat (opposite 
 > 
 > Oh, man, thought Winsome, an intellectual. I had to pick an intellectual. They all revert.
 
+Considering writing a fairly long essay on all the Fangs in Pynchon, listing the explicit appearances and some of their meanings, both within their own works and intertextually (although they are seemingly endless, as we are shown with the Golden Fang!) because I can't really find anyone else talking about it in any detail, but I feel like someone else must have noticed, and I can't find much mention of it. It might be buried in with stuff on the Golden Fang or blood and dracularity, or maybe on some podcast...
 
+It goes right back to V. and is a reoccuring theme in all his works. I just learned that Fang the cat in V. was originally called Yellow Fang in the 1961 draft, which then comes back in Against the Day with _The Chums of Chance and the Wrath of the Yellow Fang,_ prefiguring Inherent Vice. Heroin sucking the calcium out of your teeth. Obviously there's Fang in Mason & Dixon as well. Then there's all the gothic / film monster stuff. This line of inquiry has turned out to be something of... a goldmine.
+
+It's just absolutely insane how interconnected his works are. Would love to hear any thoughts on this, or if you know where this has been discussed.
 ### **Milk vs. Blood – Sustenance and Predation**
 
 Beer/milk as the sustenance of life, blood as a symbol of predation and death. the substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst.
