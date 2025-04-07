@@ -4,6 +4,10 @@ title: Discography
 
 The date is the date of export.
 
+### 2025-04-07 - Couldn't Be More Wrong
+
+![[Couldn't Be More Wrong 2025-04-07 1045.mp3]]
+
 ### 2025-03-29 - Afraid
 
 ![[POP157 2025-03-29 1650.mp3]]
