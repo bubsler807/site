@@ -5,15 +5,15 @@ date: 2025-02-25
 tags:
   - List
 ---
-- Boethius (480-524) - Philosopher and statesman, known for _The Consolation of Philosophy_, which blends classical philosophy with Christian thought.
+- **Boethius (480-524)** - Philosopher and statesman, known for _The Consolation of Philosophy_, which blends classical philosophy with Christian thought.
 
-- Isidore of Seville (560-636) - Archbishop and scholar, credited with compiling the _Etymologiae_, an encyclopedic work that preserved much ancient knowledge.
+- **Isidore of Seville (560-636)** - Archbishop and scholar, credited with compiling the _Etymologiae_, an encyclopedic work that preserved much ancient knowledge.
 
-- Aldhelm (639-709) - Bishop and scholar, known for his work in Latin poetry and for introducing Latin versification into Anglo-Saxon literature.
+- **Aldhelm (639-709)** - Bishop and scholar, known for his work in Latin poetry and for introducing Latin versification into Anglo-Saxon literature.
 
-- Bede (672-735) - Monk and historian, best known for writing _Ecclesiastical History of the English People_, a key source for early British history.
+- **Bede (672-735)** - Monk and historian, best known for writing _Ecclesiastical History of the English People_, a key source for early British history.
 
-- Alcuin of York (735-804) - Scholar and cleric, a leading figure in the Carolingian Renaissance and an advisor to Charlemagne.
+- **Alcuin of York (735-804)** - Scholar and cleric, a leading figure in the Carolingian Renaissance and an advisor to Charlemagne.
 
 - Charlemagne (748-814) - King of the Franks and Emperor of the Holy Roman Empire, credited with uniting much of Western Europe and fostering the Carolingian Renaissance.
 
@@ -147,103 +147,103 @@ tags:
 
 - William of Ockham (1287-1347) - Philosopher and theologian, known for Ockham’s Razor, a principle of simplicity in problem-solving.
 
-- Barlaam of Seminara (1290-1348) - Italian philosopher and theologian, known for his debates with Palamites on the nature of divine light.
+- **Barlaam of Seminara (1290-1348)** - Italian philosopher and theologian, known for his debates with Palamites on the nature of divine light.
 
-- Jean Buridan (1301-1362) - French philosopher and logician, known for his work on the concept of impetus and his contributions to early scientific thought.
+- **Jean Buridan (1301-1362)** - French philosopher and logician, known for his work on the concept of impetus and his contributions to early scientific thought.
 
-- Francesco Petrarch (1304-1374) - Italian poet and scholar, often called the father of Renaissance humanism, known for his sonnets to Laura.
+- **Francesco Petrarch (1304-1374)** - Italian poet and scholar, often called the father of Renaissance humanism, known for his sonnets to Laura.
 
-- Giovanni Boccaccio (1313-1375) - Italian writer and poet, known for _The Decameron_, a collection of stories that marked a shift in European literature.
+- **Giovanni Boccaccio (1313-1375)** - Italian writer and poet, known for _The Decameron_, a collection of stories that marked a shift in European literature.
 
-- Nicole Oresme (1325-1382) - French philosopher, mathematician, and theologian, notable for his contributions to the understanding of motion and his critiques of Aristotelian physics.
+- **Nicole Oresme (1325-1382)** - French philosopher, mathematician, and theologian, notable for his contributions to the understanding of motion and his critiques of Aristotelian physics.
 
-- John Wyclif (1328-1384) - English theologian and reformer, known for his criticism of the Catholic Church and his translation of the Bible into English.
+- **John Wyclif (1328-1384)** - English theologian and reformer, known for his criticism of the Catholic Church and his translation of the Bible into English.
 
-- William Langland (1330-1386) - English poet, best known for _Piers Plowman_, an allegorical poem that critiques medieval society.
+- **William Langland (1330-1386)** - English poet, best known for _Piers Plowman_, an allegorical poem that critiques medieval society.
 
-- Ibn Khaldun (1332-1406) - Arab historian and philosopher, known for his work on the philosophy of history and sociology in his _Muqaddimah_.
+- **Ibn Khaldun (1332-1406)** - Arab historian and philosopher, known for his work on the philosophy of history and sociology in his _Muqaddimah_.
 
-- Geoffrey Chaucer (1340-1400) - English poet, best known for _The Canterbury Tales_, a collection of stories that provides a vivid picture of medieval society.
+- **Geoffrey Chaucer (1340-1400)** - English poet, best known for _The Canterbury Tales_, a collection of stories that provides a vivid picture of medieval society.
 
-- Georgios Gemistos Plethon (1360-1452) - Greek philosopher, a key figure in the revival of Platonism in Renaissance thought.
+- **Georgios Gemistos Plethon (1360-1452)** - Greek philosopher, a key figure in the revival of Platonism in Renaissance thought.
 
-- Leonardo Bruni (1370-1444) - Italian humanist and historian, known for his work on the history of Florence and the revival of classical learning.
+- **Leonardo Bruni (1370-1444)** - Italian humanist and historian, known for his work on the history of Florence and the revival of classical learning.
 
-- Filippo Brunelleschi (1377-1446) - Italian architect and engineer, known for his pioneering work in the development of Renaissance architecture, including the dome of the Florence Cathedral.
+- **Filippo Brunelleschi** (1377-1446) - Italian architect and engineer, known for his pioneering work in the development of Renaissance architecture, including the dome of the Florence Cathedral.
 
-- Jan van Eyck (1380-1441) - Flemish painter, one of the earliest masters of oil painting and known for his detailed and realistic works.
+- **Jan van Eyck (1380-1441)** - Flemish painter, one of the earliest masters of oil painting and known for his detailed and realistic works.
 
-- Donatello (1386-1466) - Italian sculptor, celebrated for his realistic and expressive sculptures, particularly in bronze and marble.
+- **Donatello (1386-1466)** - Italian sculptor, celebrated for his realistic and expressive sculptures, particularly in bronze and marble.
 
-- Cosimo de’ Medici (1389-1464) - Italian banker and politician, a key figure in the rise of the Medici family and patron of the arts during the Renaissance.
+- **Cosimo de’ Medici (1389-1464)** - Italian banker and politician, a key figure in the rise of the Medici family and patron of the arts during the Renaissance.
 
-- Fra Angelico (1395-1455) - Italian painter, a Dominican friar whose works are known for their spiritual depth and beauty.
+- **Fra Angelico (1395-1455)** - Italian painter, a Dominican friar whose works are known for their spiritual depth and beauty.
 
-- Paolo Uccello (1397-1475) - Italian painter, recognized for his pioneering use of perspective in art.
+- **Paolo Uccello (1397-1475)** - Italian painter, recognized for his pioneering use of perspective in art.
 
-- Masaccio (1401-1428) - Italian painter, a key figure in the early Renaissance, known for his realistic depiction of the human form and use of perspective.
+- **Masaccio (1401-1428)** - Italian painter, a key figure in the early Renaissance, known for his realistic depiction of the human form and use of perspective.
 
-- Nicholas of Cusa (1401–1469) - German philosopher and theologian, known for his work on the nature of God, human knowledge, and the cosmos.
+- **Nicholas of Cusa (1401–1469)** - German philosopher and theologian, known for his work on the nature of God, human knowledge, and the cosmos.
 
-- Bessarion (1403-1472) - Greek cardinal and scholar, instrumental in the transmission of Greek knowledge to the West.
+- **Bessarion (1403-1472)** - Greek cardinal and scholar, instrumental in the transmission of Greek knowledge to the West.
 
-- Leon Battista Alberti (1404-1472) - Italian humanist, architect, and polymath, one of the foremost thinkers of the Renaissance.
+- **Leon Battista Alberti (1404-1472)** - Italian humanist, architect, and polymath, one of the foremost thinkers of the Renaissance.
 
-- Aeneas Sylvius, Pope Pius II (1405–1464) - Pope, diplomat, and scholar, known for his literary works and his role in Renaissance politics.
+- **Aeneas Sylvius, Pope Pius II (1405–1464)** - Pope, diplomat, and scholar, known for his literary works and his role in Renaissance politics.
 
-- Filippo Lippi (1406-1469) - Italian painter, known for his religious works and influence on the development of Renaissance art.
+- **Filippo Lippi (1406-1469)** - Italian painter, known for his religious works and influence on the development of Renaissance art.
 
-- Lorenzo Valla (1407-1457) - Italian humanist and philosopher, famous for his critique of medieval scholasticism and his textual criticism of classical works.
+- **Lorenzo Valla (1407-1457)** - Italian humanist and philosopher, famous for his critique of medieval scholasticism and his textual criticism of classical works.
 
-- Piero della Francesca (1415-1492) - Italian painter, known for his contributions to the development of perspective and his mathematical approach to art.
+- **Piero della Francesca (1415-1492)** - Italian painter, known for his contributions to the development of perspective and his mathematical approach to art.
 
-- Janus Pannonius (1435-1472) - Hungarian poet and scholar, known for his Latin poetry and as an early humanist figure in Central Europe.
+- **Janus Pannonius (1435-1472)** - Hungarian poet and scholar, known for his Latin poetry and as an early humanist figure in Central Europe.
 
-- Pope Julius II (1443-1513) - Pope, known for his patronage of the arts, including commissioning Michelangelo’s _Sistine Chapel_ ceiling.
+- **Pope Julius II (1443-1513)** - Pope, known for his patronage of the arts, including commissioning Michelangelo’s _Sistine Chapel_ ceiling.
 
-- Rodolphus Agricola (1444-1485) - Dutch humanist and scholar, one of the first to study Greek in the Northern Renaissance.
+- **Rodolphus Agricola (1444-1485)** - Dutch humanist and scholar, one of the first to study Greek in the Northern Renaissance.
 
-- Sandro Botticelli (1445-1510) - Italian painter, renowned for his mythological and religious works, including _The Birth of Venus_.
+- **Sandro Botticelli (1445-1510)** - Italian painter, renowned for his mythological and religious works, including _The Birth of Venus_.
 
-- Lorenzo di Piero de’ Medici (1449-1492) - Italian ruler and patron of the arts, known for fostering the flourishing of the Renaissance in Florence.
+- **Lorenzo di Piero de’ Medici (1449-1492)** - Italian ruler and patron of the arts, known for fostering the flourishing of the Renaissance in Florence.
 
-- Aldus Manutius (1449–1515) - Venetian printer and publisher, known for his innovations in typography and the production of the first italic typeface.
+- **Aldus Manutius (1449–1515)** - Venetian printer and publisher, known for his innovations in typography and the production of the first italic typeface.
 
-- Hieronymus Bosch (1450-1516) - Dutch painter, known for his fantastical and surreal depictions of religious themes.
+- **Hieronymus Bosch (1450-1516)** - Dutch painter, known for his fantastical and surreal depictions of religious themes.
 
-- Giovanni Caboto (1450-1499) - Venetian explorer, credited with discovering parts of North America.
+- **Giovanni Caboto (1450-1499)** - Venetian explorer, credited with discovering parts of North America.
 
-- Christophorus Columbus (1451-1506) - Genoese navigator, known for his voyages across the Atlantic and the European discovery of the Americas.
+- **Christophorus Columbus (1451-1506)** - Genoese navigator, known for his voyages across the Atlantic and the European discovery of the Americas.
 
-- Leonardo di ser Piero da Vinci (1452-1519) - Italian polymath, one of the most influential figures of the Renaissance, known for his contributions to art, science, and engineering.
+- **Leonardo di ser Piero da Vinci (1452-1519)** - Italian polymath, one of the most influential figures of the Renaissance, known for his contributions to art, science, and engineering.
 
-- Angelo Poliziano (1454-1494) - Italian humanist and poet, known for his work on classical Latin literature and his connection to the Medici family.
+- **Angelo Poliziano (1454-1494)** - Italian humanist and poet, known for his work on classical Latin literature and his connection to the Medici family.
 
-- Jacques Lefèvre d’Étaples (1455-1536) - French theologian and scholar, notable for his work on the translation of the Bible and his involvement in early Reformation thought.
+- **Jacques Lefèvre d’Étaples (1455-1536)** - French theologian and scholar, notable for his work on the translation of the Bible and his involvement in early Reformation thought.
 
-- Conrad Celtes (1459–1508) - German poet and humanist, a key figure in the German Renaissance and in the development of humanist scholarship in Europe.
+- **Conrad Celtes (1459–1508)** - German poet and humanist, a key figure in the German Renaissance and in the development of humanist scholarship in Europe.
 
-- Johannes Trithemius (1462-1516) - German monk, scholar, and cryptographer, known for his work on history and the development of early cryptography.
+- **Johannes Trithemius (1462-1516)** - German monk, scholar, and cryptographer, known for his work on history and the development of early cryptography.
 
-- Giovanni Pico della Mirandola (1463–1494) - Italian philosopher, known for his _Oration on the Dignity of Man_, a foundational text of Renaissance humanism.
+-** Giovanni Pico della Mirandola (1463–1494)** - Italian philosopher, known for his _Oration on the Dignity of Man_, a foundational text of Renaissance humanism.
 
-- Moctezuma Xocoyotzin (1466-1520) - Aztec emperor, notable for his encounters with Hernán Cortés during the Spanish conquest of the Aztec Empire.
+- **Moctezuma Xocoyotzin (1466-1520)** - Aztec emperor, notable for his encounters with Hernán Cortés during the Spanish conquest of the Aztec Empire.
 
-- Desiderius Erasmus (1466-1536) - Dutch humanist, theologian, and scholar, known for his critical editions of the New Testament and his advocacy for Christian humanism.
+- **Desiderius Erasmus (1466-1536)** - Dutch humanist, theologian, and scholar, known for his critical editions of the New Testament and his advocacy for Christian humanism.
 
-- Niccolò Machiavelli (1469-1527) - Italian diplomat and philosopher, famous for his political treatise _The Prince_ and his contributions to political theory.
+- **Niccolò Machiavelli (1469-1527)** - Italian diplomat and philosopher, famous for his political treatise _The Prince_ and his contributions to political theory.
 
-- Albrecht Dürer (1471-1528) - German painter, printmaker, and mathematician, known for his detailed engravings and contributions to the Northern Renaissance.
+- **Albrecht Dürer (1471-1528)** - German painter, printmaker, and mathematician, known for his detailed engravings and contributions to the Northern Renaissance.
 
-- Ludovico Ariosto (1474–1533) - Italian poet, best known for his epic _Orlando Furioso_, a key work in the Italian Renaissance.
+- **Ludovico Ariosto (1474–1533)** - Italian poet, best known for his epic _Orlando Furioso_, a key work in the Italian Renaissance.
 
-- Alessandra Scala (1475-1506) - Italian poet and philosopher, recognized for her contributions to Renaissance poetry and thought.
+- **Alessandra Scala (1475-1506)** - Italian poet and philosopher, recognized for her contributions to Renaissance poetry and thought.
 
-- Pope Leo X (1475-1521) - Pope, known for his patronage of the arts and his role in the events leading to the Reformation.
+-** Pope Leo X (1475-1521)** - Pope, known for his patronage of the arts and his role in the events leading to the Reformation.
 
-- Antonio de Montesinos (1475-1540) - Spanish Dominican friar, known for his advocacy for the rights of indigenous peoples in the Americas.
+- **Antonio de Montesinos (1475-1540)** - Spanish Dominican friar, known for his advocacy for the rights of indigenous peoples in the Americas.
 
-- Michelangelo Buonarroti (1475-1564) - Italian sculptor, painter, and architect, known for his masterpieces _David_ and the _Sistine Chapel_ ceiling.
+- **Michelangelo Buonarroti (1475-1564)** - Italian sculptor, painter, and architect, known for his masterpieces _David_ and the _Sistine Chapel_ ceiling.
 
 - **Thomas More (1478-1535)** - English lawyer, philosopher, and statesman, best known for his work _Utopia_, which critiques contemporary society and presents an idealized vision of a perfect community.  
 

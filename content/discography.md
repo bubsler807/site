@@ -4,6 +4,12 @@ title: Discography
 
 The date is the date of export.
 
+
+### 2025-04-14 - Plucking Strings
+2025-04-14: Composed and recorded today.
+
+![[GranularGuitar 2025-04-14 1652.mp3]]
+
 ### 2025-04-07 - Couldn't Be More Wrong
 2025-04-07: Recorded in the morning. Came up with the chords and melody yesterday night.
 
