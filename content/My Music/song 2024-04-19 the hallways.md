@@ -11,7 +11,7 @@ tags:
 ## Lyrics
 
 He couldn't sleep that night,   
-he was imagining the hallways
+he was imagining the hallways   
 running endlessly beneath his house   
 and all the others.   
 
