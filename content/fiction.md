@@ -19,3 +19,4 @@ List of fictional works I've written or am currently writing.
 - The Electric Image Solution
 - Achromatic Infusions
 - Black-Glass Enchantment Agency
+- The White Hallway
