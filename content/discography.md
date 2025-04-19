@@ -4,7 +4,7 @@ title: Discography
 
 The date is the date of export.
 
-### ![[song 2024-04-19 the hallways|2025-04-19 - The Hallways]]
+### [[song 2024-04-19 the hallways|2025-04-19 - The Hallways]]
 ### 2025-04-14 - Plucking Strings
 2025-04-14: Composed and recorded today.
 
