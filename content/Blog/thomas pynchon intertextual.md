@@ -13,9 +13,9 @@ As far as I know, nobody has yet pointed out just how closely chapter 3 of M&D i
 ------
 ### **The Man / Beast Dichotomy**
 
-Let us consider all the Fangs in Pynchon, listing the explicit appearances and some of their meanings, both within their own works and in relation to other works (although the meanings are seemingly endless, as we are shown with the Golden Fang!) I can't really find anyone else talking about it in any detail. Someone else must have noticed, but I can't find much of any substance or even mention of it.
+Let us consider all the Fangs in Pynchon, listing the explicit appearances and some of their meanings, both within their own works and in relation to other works (although the meanings are seemingly endless, as we are shown with the Golden Fang!)
 
-It goes right back to V. and is a reoccurring theme in all his works. I recently learned that Fang the Cat in V. was originally called [Yellow Fang](https://thomaspynchon.com/fast-learner-pynchons-revisions-to-v/) in the 1961 draft, which then comes back in Against the Day with _The Chums of Chance and the Wrath of the Yellow Fang,_ prefiguring Inherent Vice. Artificiality becomes tied up with illusion. What's sold as a gold plated tooth is really just heroin sucking the calcium out of your teeth (to paraphrase). Don't trust your dentist, folks. They will set up a global drug operation to destroy your teeth just to keep you coming back! Obviously there's Fang in Mason & Dixon as well. Then there's all the gothic / film monster stuff. Mucho Maas' Dracula in Vineland. Bigfoot, and Wolfman in Inherent Vice. It goes on and on.
+It goes right back to V. and is a reoccurring theme in all his works. I recently learned that Fang the Cat in V. was originally called [Yellow Fang](https://thomaspynchon.com/fast-learner-pynchons-revisions-to-v/) in the 1961 draft, which then comes back in Against the Day with _The Chums of Chance and the Wrath of the Yellow Fang,_ prefiguring Inherent Vice. Artificiality becomes tied up with illusion. What's sold as a gold plated tooth is really just symbolic of the heroin sucking the calcium out of your teeth (to paraphrase). Don't trust your dentist, folks. They will set up a global drug operation to destroy your teeth just to keep you coming back! Obviously there's Fang in Mason & Dixon as well. Then there's all the gothic / film monster stuff. Mucho Maas' Dracula in Vineland. Bigfoot, and Wolfman in Inherent Vice. It goes on and on.
 
 I wonder about Biter-Bit Creek in Against the Day (see the Wilkie Collins story)...
 
@@ -23,7 +23,7 @@ I wonder about Biter-Bit Creek in Against the Day (see the Wilkie Collins story)
 
 Fang here functions as a mirror of ploy in V. Ploy as in plot. Fang is plotting.
 
-Ploy becomes "beastlike", having his teeth pulled out and replaced with metal fangs, he embodies the grotesque, a human sliding toward bestiality. 
+Ploy becomes "beastlike", having his teeth pulled out and replaced with a metal (artificial) set, which he then files down into fangs He embodies the grotesque, a human sliding toward bestiality. 
 
 In V. this contributes towards the thematics of gothic horror that is imbued throughout V. as well as the rest of his novels, and nods towards Pynchon's love of the cinematic monsters such as the wolfman, and in his later novels these themes become more explicit. Inherent Vice is saturated with monster references.
 
@@ -44,7 +44,7 @@ This leads us to the next section.
 
 Beer/milk as the sustenance of life, blood as a symbol of predation and death. The substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst.
 
-There is also an artificial / natural dichotomy here as well, with the beer in V. coming from rubber nipples. Ploy does not just revert to a man, but to a child.
+There is also an artificial / natural dichotomy here as well, with the beer in V. coming from rubber nipples. Ploy does not just revert from beast to a man, but from beast to child?
 
 See: Dracularity
 ### **Returning from Sea vs. Going to Sea**
