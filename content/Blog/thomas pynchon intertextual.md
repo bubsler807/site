@@ -15,7 +15,7 @@ As far as I know, nobody has yet pointed out just how closely chapter 3 of M&D i
 
 Let us consider all the Fangs in Pynchon, listing the explicit appearances and some of their meanings, both within their own works and in relation to other works (although the meanings are seemingly endless, as we are shown with the Golden Fang!) I can't really find anyone else talking about it in any detail. Someone else must have noticed, but I can't find much of any substance or even mention of it.
 
-It goes right back to V. and is a reoccurring theme in all his works. I recently learned that Fang the cat in V. was originally called Yellow Fang in the 1961 draft, which then comes back in Against the Day with _The Chums of Chance and the Wrath of the Yellow Fang,_ prefiguring Inherent Vice. Artificiality becomes tied up with illusion. What's sold as a gold plated tooth is really just heroin sucking the calcium out of your teeth (to paraphrase). Don't trust your dentist, folks. They set up a global drug operation all to keep you coming back! Obviously there's Fang in Mason & Dixon as well. Then there's all the gothic / film monster stuff. Mucho Maas' Dracula. Mickey Wolfman. Biter-Bit Creek in Against the Day... It goes on and on.
+It goes right back to V. and is a reoccurring theme in all his works. I recently learned that Fang the Cat in V. was originally called [Yellow Fang](https://thomaspynchon.com/fast-learner-pynchons-revisions-to-v/) in the 1961 draft, which then comes back in Against the Day with _The Chums of Chance and the Wrath of the Yellow Fang,_ prefiguring Inherent Vice. Artificiality becomes tied up with illusion. What's sold as a gold plated tooth is really just heroin sucking the calcium out of your teeth (to paraphrase). Don't trust your dentist, folks. They will set up a global drug operation to destroy your teeth just to keep you coming back! Obviously there's Fang in Mason & Dixon as well. Then there's all the gothic / film monster stuff. Mucho Maas' Dracula. Mickey Wolfman. Biter-Bit Creek in Against the Day... It goes on and on.
 
 > he smoaks that the Learnèd English D.,— or Fang, as now he apparently wishes to be known,— in introducing them thus, is pursuing an entirely personal End.
 
@@ -31,15 +31,16 @@ The L.E.D (Learned English Dog) is probably called such because he is partly tec
 
 Note that Fang is only suddenly called Fang right before his repressed bloodlust returns. 
 
-Another thing to note: There is also another Fang in V., Fang the cat (opposite of dog). Here is a very relevant scene from later in V:
+Another thing to note: As I said above, there is also a Fang in V., Fang the Cat (opposite of dog). Here is a very relevant scene from later in V:
 
 > Mafia his wife was in on the bed playing with Fang the cat. At the moment she was naked and dangling an inflatable brassiere before the frustrated claws of Fang who was Siamese, gray and neurotic. “Bouncy, bouncy,” she was saying. “Is the dweat big kitties angwy cause he tant play wif the bwa? EEEE, he so cute and ickle.”
 > 
 > Oh, man, thought Winsome, an intellectual. I had to pick an intellectual. They all revert.
 
+This leads us to the next section.
 ### **Milk vs. Blood – Sustenance and Predation**
 
-Beer/milk as the sustenance of life, blood as a symbol of predation and death. the substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst.
+Beer/milk as the sustenance of life, blood as a symbol of predation and death. The substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst.
 
 There is also an artificial / natural dichotomy here as well, with the beer in V. coming from rubber nipples. Ploy does not just revert to a man, but to a child.
 
