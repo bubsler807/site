@@ -23,9 +23,9 @@ Fang here functions as a mirror of ploy in V. Ploy as in plot. Fang is plotting.
 
 Ploy becomes "beastlike", having his teeth pulled out and replaced with metal fangs, he embodies the grotesque, a human sliding toward bestiality. 
 
-In V. this contributes towards the thematics of gothic horror that is imbued throughout V. as well as the rest of his novels, and nods towards Pynchon's love of the cinematic monsters such as the wolfman, and in his later novels these themes become more explicit, such as all the monster references in Inherent Vice... 
+In V. this contributes towards the thematics of gothic horror that is imbued throughout V. as well as the rest of his novels, and nods towards Pynchon's love of the cinematic monsters such as the wolfman, and in his later novels these themes become more explicit. Inherent Vice is saturated with monster references.
 
-Fang as a beast becoming not only manlike, but a gentleman. This move to invert the human-monster dynamic in V. gives us an ironic enlightenment fable. In the context of the chapter, the point is that the so called "gentlemen" of history, were in reality colonialists who were not, in fact, gentle.
+Fang as a beast becoming not only manlike, but a gentleman. This move to invert the human-monster dynamic in V. **gives us an ironic enlightenment fable**. In the context of the chapter, the point is that the so called "gentlemen" of history, were in reality colonialists who were not, in fact, gentle.
 
 The L.E.D (Learned English Dog) is probably called such because he is partly technological. Thus we get a natural / artificial dichotomy. 
 
