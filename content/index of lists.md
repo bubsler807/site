@@ -14,4 +14,4 @@ date: 2025-02-25
 
 [[chronological sketch of the chemical industry|Chronological Sketch of the Chemical Industry]]
 
-[[alexander theroux - a short history of creatrixes|Alexander Theroux's List of "Creatrixes"]]
+[[alexander theroux a short history of creatrixes|Alexander Theroux's List of "Creatrixes"]]

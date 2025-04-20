@@ -6,16 +6,20 @@ tags:
 ---
 # On the 3rd Chapter of Thomas Pynchon's Mason & Dixon as a Mirror Image of the 1st Chapter of V.
 
-Mason & Dixon is in part, like Gravity's Rainbow (V2), a return to, a reconsideration, and reconfiguration of the themes and scenes of his first novel V. Both books play with the symbol of V and its semiotic ambiguity as to whether it is compressing downwards or dissipating upwards (notably the opposite of classical, "chain-of-being"-esque metaphysics, if anything, the V symbol points to spiritual dispersions stemming from a material god, another possibility would be polytheism) whether it is a centrifugal, scattering history and meaning outward, or centripetal, drawing inward. It functions much like the symbol of a Cross in a way, a union of opposites... of the material and the spiritual, the sacred and the profane. But, it is not so much a union of opposites but rather a confusion of opposites.
+Mason & Dixon is in part, like Gravity's Rainbow (V2), a return to, a reconsideration, and reconfiguration of the themes and scenes of his first novel V. Both books play with the symbol of V and its semiotic ambiguity as to whether it is compressing downwards or dissipating upwards (notably the opposite of classical, chain-of-being-esque, emanationist metaphysics, if anything, the V symbol points to spiritual dispersions stemming from a material god, another possibility would be polytheism) whether it is a centrifugal, scattering history and meaning outward, or centripetal, drawing inward. It functions much like the symbol of the Cross, it gestures toward a fusion of opposites: material and spiritual, sacred and profane. But often, rather than a union of opposites, it will signify a _confusion_ of them.
 
 As far as I know, nobody has yet pointed out just how closely chapter 3 of M&D in particular mirrors chapter 1 of V.
 
 ------
 ### **The Man / Beast Dichotomy**
 
+Let us consider all the Fangs in Pynchon, listing the explicit appearances and some of their meanings, both within their own works and in relation to other works (although the meanings are seemingly endless, as we are shown with the Golden Fang!) I can't really find anyone else talking about it in any detail. Someone else must have noticed, but I can't find much of any substance or even mention of it.
+
+It goes right back to V. and is a reoccurring theme in all his works. I recently learned that Fang the cat in V. was originally called Yellow Fang in the 1961 draft, which then comes back in Against the Day with _The Chums of Chance and the Wrath of the Yellow Fang,_ prefiguring Inherent Vice. Artificiality becomes tied up with illusion. What's sold as a gold plated tooth is really just heroin sucking the calcium out of your teeth (to paraphrase). Don't trust your dentist, folks. They set up a global drug operation all to keep you coming back! Obviously there's Fang in Mason & Dixon as well. Then there's all the gothic / film monster stuff. Mucho Maas' Dracula. Mickey Wolfman. Biter-Bit Creek in Against the Day... It goes on and on.
+
 > he smoaks that the Learnèd English D.,— or Fang, as now he apparently wishes to be known,— in introducing them thus, is pursuing an entirely personal End.
 
-Fang functions as a mirror of ploy in V. Ploy as in plot. Fang is plotting.
+Fang here functions as a mirror of ploy in V. Ploy as in plot. Fang is plotting.
 
 Ploy becomes "beastlike", having his teeth pulled out and replaced with metal fangs, he embodies the grotesque, a human sliding toward bestiality. 
 
@@ -33,18 +37,13 @@ Another thing to note: There is also another Fang in V., Fang the cat (opposite 
 > 
 > Oh, man, thought Winsome, an intellectual. I had to pick an intellectual. They all revert.
 
-Considering writing a fairly long essay on all the Fangs in Pynchon, listing the explicit appearances and some of their meanings, both within their own works and intertextually (although they are seemingly endless, as we are shown with the Golden Fang!) because I can't really find anyone else talking about it in any detail, but I feel like someone else must have noticed, and I can't find much mention of it. It might be buried in with stuff on the Golden Fang or blood and dracularity, or maybe on some podcast...
-
-It goes right back to V. and is a reoccuring theme in all his works. I just learned that Fang the cat in V. was originally called Yellow Fang in the 1961 draft, which then comes back in Against the Day with _The Chums of Chance and the Wrath of the Yellow Fang,_ prefiguring Inherent Vice. Artificiality becomes tied up with illusion. What's sold as a gold plated tooth is really just heroin sucking the calcium out of your teeth. Oh, and don't trust your dentist, folks. Obviously there's Fang in Mason & Dixon as well. Then there's all the gothic / film monster stuff. This line of inquiry has turned out to be something of... a goldmine.
-
-Biter-Bit Creek in Against the Day
-
-It's just absolutely insane how interconnected his works are. Would love to hear any thoughts on this, or if you know where this has been discussed.
 ### **Milk vs. Blood – Sustenance and Predation**
 
 Beer/milk as the sustenance of life, blood as a symbol of predation and death. the substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst.
 
 There is also an artificial / natural dichotomy here as well, with the beer in V. coming from rubber nipples. Ploy does not just revert to a man, but to a child.
+
+See: Dracularity
 ### **Returning from Sea vs. Going to Sea**
 
 In _V._'s chapter the sea is the past, something that has changed the character. In _M&D_, the sea is the future, something yet to happen.
@@ -53,7 +52,7 @@ In _V._'s chapter the sea is the past, something that has changed the character.
 
 The English name _Friday_ comes from the Old English __frīġedæġ__, meaning the "day of Frig", a result of an old convention associating the Nordic goddess Frigg with the Roman goddess Venus after whom the planet was named.
 
-Mason & Dixon are told by Hepsie that they are to go to sea on a Friday, they are travelling on a mission to measure the transit of venus (V).
+Mason & Dixon are told by Hepsie that they are to go to sea on a Friday, they are travelling on a mission to measure the transit of (V)enus.
 ### **Hepsie vs. Buffo**
 
 > residing half out of doors, fram’d in cabl’d timbers wash’d in from a wreck of long ago, an old piece of awning held by a gnaw’d split, ancient Euphroe between her and the sky with its varied Menace, sits Dark Hepsie, the Pythoness of the Point.
@@ -80,7 +79,7 @@ There aren't a multiplicity of Hepsies like Beatrices, but she does have somewha
 
 > Like Hepsie, Mauve is far from what she pretends. Most men are fool’d into seeing a melancholy Waif, when in reality she’s the most cheerful of little Butter-Biscuits, who has escap’d looking matronly only thanks to that constant Exertion demanded by the company of Sailors. She and Hepsie in fact share quarters in Portsea, as well as a Wardrobe noted, even here upon the Point, for its unconsider’d use of Printed Fabricks
 
-Pynchon was certainly thinking of the first mass produced synthetic dye [[chronological sketch of the chemical industry#^befd4f|Perkin's Mauve]].
+Considering this is the man who wrote Gravity's Rainbow, [[thomas pynchon the meaning of gravity's rainbow|a book not insubstantially about dye companies turning into petrochemical corporations]], Pynchon was certainly thinking of the first mass produced synthetic dye [[chronological sketch of the chemical industry#^befd4f|Perkin's Mauve]].
 
 ----
 
