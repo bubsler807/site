@@ -6,6 +6,7 @@ tags:
   - Singer-Songwriter
   - Slowcore
   - Americana
+  - Music
 ---
 ![[Gentle Moon Cover 2 2025-04-20 2024.mp3]]
 
