@@ -7,4 +7,4 @@ date: 2025-04-20
 
 ## Notes
 
-2024-04-20: Recorded today with a 3u cm1 on both vocals and a Guild F-2512 12-String.
+2024-04-20: Recorded today with a 3u cm1 teal on both vocals and a Guild F-2512 12-String.

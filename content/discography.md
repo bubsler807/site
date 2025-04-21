@@ -20,8 +20,7 @@ The date is the date of export.
 
 ![[POP157 2025-03-29 1650.mp3]]
 
-### 2025-03-18 - In The Distance
-![[POP150 2025-03-18 1939.mp3]]
+### [[song 2025-03-18 in the distance|2025-03-18 - In The Distance]]
 
 ### 2025-03-13 - Piano Improv
 2025-03-13: Using Keyscape felt piano.
