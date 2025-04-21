@@ -1,6 +1,8 @@
 ---
 title: 2025-03-18 - In The Distance
 date: 2025-04-20
+tags:
+  - Rock
 ---
 ![[POP150 2025-03-18 1939.mp3]]
 

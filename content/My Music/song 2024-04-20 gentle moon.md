@@ -1,6 +1,11 @@
 ---
 title: 2024-04-20 - Gentle Moon (Sun Kil Moon Cover)
 date: 2025-04-20
+tags:
+  - Folk
+  - Singer-Songwriter
+  - Slowcore
+  - Americana
 ---
 ![[Gentle Moon Cover 2 2025-04-20 2024.mp3]]
 
