@@ -3,6 +3,7 @@ title: Intertextual Resonances and Reflections in the Works of Thomas Pynchon
 date: 2025-03-08
 tags:
   - Literature
+draft: true
 ---
 # On the 3rd Chapter of Thomas Pynchon's Mason & Dixon as a Mirror Image of the 1st Chapter of V.
 
@@ -96,7 +97,11 @@ Note to self: The reader plays the role of the alchemist searching for a glimpse
 ----
 ## Question to self: Why is V. always female? 
 
-V. as the mother goddess. By being representative of the vessel-body, masks the very multiplicity she contains (see William Irwin Thompson) The feminine becomes the surface where blood and milk, predator and prey, man and beast, technology and body all get mirrored. The woman conceals. The woman-as-secret. As that which is veiled, ciphered, coded. The closer one gets, the more she recedes into multiplication. She is the muse herself, she is a young girl, she is a machine, she is a doll, she is a myth, she is a city, she is all oppositional categories. She is the principle of recursion itself. She is the very form of _questioning_. The fact that she's depicted as a woman is part of the trick. A visual illusion that encodes the deeper androgyny of the symbol. Consider the symbol that might be considered the sequel to the V. symbol, a post horn. The post horn is masculine, but the V. symbol is still present. As John David Ebert points out, one of the core meanings of the post horn is literally a dick and balls penetrating a vagina (fitting considering that CoL49 comes between V and GR). Pynchon writes woman as topology, as psychogeography. With CoL49, The post-horn is a masculine reply, but also a secret continuation, signifying the emergence of the male from the female (of course, this gets inverted in the Abrahamic religions). I wonder if Pynchon had already conceived the plan to write Gravity's Rainbow when he wrote CoL49, because CoL49 as copula, as the interstice works beautifully. Oedipa is herself an inversion of the male figure of Oedipus. She is a median subject between V. and the absolute entropy of the V2. She is the one who almost hears the message. 
+V. as the mother goddess. By being representative of the vessel-body, masks the very multiplicity she contains (see William Irwin Thompson) The feminine becomes the surface where blood and milk, predator and prey, man and beast, technology and body all get mirrored. The woman conceals. The woman-as-secret. As that which is veiled, ciphered, coded. The closer one gets, the more she recedes into multiplication. She is the muse herself, she is a young girl, she is a machine, she is a doll, she is a myth, she is a city, she is all oppositional categories. She is the principle of recursion itself. She is the very form of _questioning_. The fact that she's depicted as a woman is part of the trick. A visual illusion that encodes the deeper androgyny of the symbol. Consider the symbol that might be considered the sequel to the V. symbol, a post horn. The post horn is masculine, but the V. symbol is still present. As John David Ebert points out, one of the core meanings of the post horn is literally a dick and balls penetrating a muted vagina, a vagina that wants to speak, but is silent. (fitting considering that CoL49 comes between V and GR). Pynchon writes woman as topology, as psychogeography. With CoL49, The post-horn is a masculine reply, but also a secret continuation, signifying the emergence of the male from the female (of course, this gets inverted in the Abrahamic religions). I wonder if Pynchon had already conceived the plan to write Gravity's Rainbow when he wrote CoL49, because CoL49 as copula, as the interstice works beautifully. Oedipa is herself an inversion of the male figure of Oedipus. She is a median subject between V. and the absolute entropy of the V2. She is the one who almost hears the message, just as the one who gets a rocket dropped on his fucking head almost feels what it's like to die. 
+
+the whiteness of the whale is the silent everything
+
+toshihiko izutsu zen book speaks about silence. Also goethe.
 
 The male is never fully male. He is a continuation of the feminine logic of the great mother in disguise.
 

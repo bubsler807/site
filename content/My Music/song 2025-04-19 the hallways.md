@@ -1,5 +1,5 @@
 ---
-title: 2024-04-19 - The Hallways
+title: 2025-04-19 - The Hallways
 tags:
   - Music
   - Shoegaze
