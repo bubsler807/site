@@ -15,10 +15,10 @@ The faceless sun that burns away.
 A gesture time could not replace,   
 still haunts the corners of this place.   
 
-A crown of thorns, a mask of clay.
-The faceless sun that burns away.
-Leaves nothing but an empty glare,
-a shadow cast, a fading stare.
+A crown of thorns, a mask of clay.   
+The faceless sun that burns away.   
+Leaves nothing but an empty glare,   
+a shadow cast, a fading stare.   
 
 We'll still remember what we've done   
 in stone and myth when times were young.   

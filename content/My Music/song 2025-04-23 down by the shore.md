@@ -19,13 +19,13 @@ yeah, yeah... I've heard that hum.
 Down by the shore, down by the shore,   
 the waves repeat, I've heard it all before.   
 
-are you haunting this pier?
-don't you know this place just forgets
-Not I, not I. I memorize every word
-In your eyes, I saw something go red.
-Say it now, say it now.
-Down by the shore, down by the shore, 
-the waves repeat, I've heard it all before.
+are you haunting this pier?   
+don't you know this place just forgets   
+Not I, not I. I memorize every word   
+In your eyes, I saw something go red.   
+Say it now, say it now.   
+Down by the shore, down by the shore,   
+the waves repeat, I've heard it all before.   
 
 ## Notes
 
