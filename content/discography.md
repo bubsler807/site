@@ -4,8 +4,8 @@ title: Discography
 
 The date is the date of export.
 
-
-### [[song 2025-04-23 down by the shore|2025-04-22 - Down by the Shore]]
+### [[song 2025-04-25 pynchon train song|2025-04-25 - Pynchon's Train Song From GR]]
+### [[song 2025-04-23 down by the shore|2025-04-23 - Down by the Shore]]
 ### [[song 2025-04-22 mask of clay|2025-04-22 - Mask of Clay]]
 ### [[song 2025-04-21 follow the sound|2025-04-21 - Follow The Sound]]
 ### [[song 2025-04-20 gentle moon|2025-04-20 - Gentle Moon (Sun Kil Moon Cover)]]

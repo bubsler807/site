@@ -73,14 +73,14 @@ https://www.thebureauinvestigates.com/stories/2024-04-18/snack-giant-pepsico-sou
 Joan Crawford was married to the ceo of Pepsi. She constantly talks about Pepsi in her book.
 
 https://x.com/algekalipso/status/1861499983062802458 - Malcolm Gladwell popularized an important insight from Pepsi's market research: when trying to optimize their soda formula, Pepsi initially assumed consumer preferences would follow a bell curve around an "optimal" sweetness level. However, the actual preference data defied this single-peak assumption. Rather than finding the "best Pepsi," Gladwell argued they needed to find the "best Pepsis" - plural. This revealed that preferences for different soda characteristics (sweetness, carbonation, flavor profile) cluster together in distinct patterns that appeal to different consumer groups.
-## Did Big-Cola try to assassinate Donald Trump?
+## Did Big-Soda try to assassinate Donald Trump?
 
 ![[Pasted image 20250420122911.png]]
 ![[GOVKJkoaQAATILq.jpg]]
 
 The rooftop the sniper (presumably Thomas Matthew Crooks) used as his perch, which USSS chief Kim Cheatle refused to position agents on citing "safety reasons" is owned by a manufacturer of plastic and glass containers and bottles. Their largest customer is PepsiCo. "Ms. Cheatle served as Senior Director in Global Security at PepsiCo, where she was responsible for directing and iomplementing security protocols for the company's facilities in North America."
 
-George Webb has a different take on this.[^2] about warring plastics and glass manufacturers in the area.
+George Webb has a different take on this.[^2] about warring plastics and glass manufacturers in the area. That glass manufacturers stuck in the past want the secret recipes to military-grade plastic products.
 
 
 
