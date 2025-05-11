@@ -4,6 +4,7 @@ title: Discography
 
 The date is the date of export.
 
+### [[song 2025-04-26 amon dreams of redshift|2025-04-26 - Amon Dreams of Redshift]]
 ### [[song 2025-04-25 pynchon train song|2025-04-25 - Pynchon's Train Song From GR]]
 ### [[song 2025-04-23 down by the shore|2025-04-23 - Down by the Shore]]
 ### [[song 2025-04-22 mask of clay|2025-04-22 - Mask of Clay]]
@@ -39,9 +40,9 @@ The date is the date of export.
 
 ![[DungeonBit 2025-02-28 1234.mp3]]
 
-### 2024-12-31 - Have Yourself a Merry Little Christmas
+### [[song 2024-12-31 have yourself a merry little christmas|2024-12-31 - Have Yourself a Merry Little Christmas]]
 
-![[Merry Little Christmas 2024-12-31 1728.mp3]]
+
 
 ### 2024-12-12 - POP-116 (Early Version)
 ![[POP116 2024-12-12 1320.mp3|POP-116]]

@@ -5,6 +5,8 @@ date: 2025-02-25
 tags:
   - List
 ---
+Compiled by Drake (Orpheus)
+
 - **Boethius (480-524)** - Philosopher and statesman, known for _The Consolation of Philosophy_, which blends classical philosophy with Christian thought.
 
 - **Isidore of Seville (560-636)** - Archbishop and scholar, credited with compiling the _Etymologiae_, an encyclopedic work that preserved much ancient knowledge.
@@ -15,137 +17,137 @@ tags:
 
 - **Alcuin of York (735-804)** - Scholar and cleric, a leading figure in the Carolingian Renaissance and an advisor to Charlemagne.
 
-- Charlemagne (748-814) - King of the Franks and Emperor of the Holy Roman Empire, credited with uniting much of Western Europe and fostering the Carolingian Renaissance.
+- **Charlemagne (748-814)** - King of the Franks and Emperor of the Holy Roman Empire, credited with uniting much of Western Europe and fostering the Carolingian Renaissance.
 
-- al-Khwarizmi (780-850) - Persian mathematician and astronomer, often called the father of algebra and a key figure in the development of Islamic science.
+- **al-Khwarizmi (780-850)** - Persian mathematician and astronomer, often called the father of algebra and a key figure in the development of Islamic science.
 
-- Leo the Mathematician (790-870) - Byzantine scholar and mathematician, known for his contributions to geometry and trigonometry.
+- **Leo the Mathematician (790-870)** - Byzantine scholar and mathematician, known for his contributions to geometry and trigonometry.
 
-- John Scotus Eriugena (c. 800-877) - Philosopher and theologian, influential in early medieval Christian philosophy, particularly in his work _Periphyseon_.
+- **John Scotus Eriugena (c. 800-877)** - Philosopher and theologian, influential in early medieval Christian philosophy, particularly in his work _Periphyseon_.
 
-- al-Kindi (801-873) - Arab philosopher and scientist, often considered the first of the Arab philosophers, blending Greek philosophy with Islamic thought.
+- **al-Kindi (801-873)** - Arab philosopher and scientist, often considered the first of the Arab philosophers, blending Greek philosophy with Islamic thought.
 
-- Abu Tammam (807-845) - Poet known for his mastery of classical Arabic poetry and his role in preserving the tradition during the Abbasid era.
+- **Abu Tammam (807-845)** - Poet known for his mastery of classical Arabic poetry and his role in preserving the tradition during the Abbasid era.
 
-- Abbas ibn Firnas (810-887) - Andalusian polymath, renowned for his early attempts at flight and contributions to astronomy and engineering.
+- **Abbas ibn Firnas (810-887)** - Andalusian polymath, renowned for his early attempts at flight and contributions to astronomy and engineering.
 
-- al-Rāzī (864-925) - Persian polymath and physician, known for his work in medicine, particularly his contributions to pharmacology and clinical practice.
+- **al-Rāzī (864-925)** - Persian polymath and physician, known for his work in medicine, particularly his contributions to pharmacology and clinical practice.
 
-- al-Farabi (870-950) - Philosopher and scientist, a key figure in Islamic Neoplatonism, and known for his work in logic, ethics, and political theory.
+- **al-Farabi (870-950)** - Philosopher and scientist, a key figure in Islamic Neoplatonism, and known for his work in logic, ethics, and political theory.
 
-- Al-Mutannabi (915-965) - Celebrated Arabic poet, whose work was influential in both the literary and cultural spheres of the Islamic world.
+- **Al-Mutannabi (915-965)** - Celebrated Arabic poet, whose work was influential in both the literary and cultural spheres of the Islamic world.
 
-- John Geometres (c. 930-985) - Byzantine poet and scholar, noted for his Christian epics and hymns.
+- **John Geometres (c. 930-985)** - Byzantine poet and scholar, noted for his Christian epics and hymns.
 
-- Ferdowsi (940-1020) - Persian poet, best known for writing the _Shahnameh_, the epic that forms a foundational part of Persian literature.
+- **Ferdowsi (940-1020)** - Persian poet, best known for writing the _Shahnameh_, the epic that forms a foundational part of Persian literature.
 
-- Gerbert of Aurillac, Sylvester II (946-1003) - Pope and scholar, a key figure in the Carolingian Renaissance and an early advocate of Arabic learning in Europe.
+- **Gerbert of Aurillac, Sylvester II (946-1003)** - Pope and scholar, a key figure in the Carolingian Renaissance and an early advocate of Arabic learning in Europe.
 
-- Basil II Porphyrogenitus (958-1025) - Byzantine Emperor, whose reign marked a period of military success and territorial expansion for the Byzantine Empire.
+- **Basil II Porphyrogenitus (958-1025)** - Byzantine Emperor, whose reign marked a period of military success and territorial expansion for the Byzantine Empire.
 
-- Ibn al-Haytham (965-1040) - Scientist and philosopher, known for his pioneering work in optics and his contributions to the scientific method.
+- **Ibn al-Haytham (965-1040)** - Scientist and philosopher, known for his pioneering work in optics and his contributions to the scientific method.
 
-- al-Biruni (973-1050) - Persian scholar and polymath, known for his contributions to astronomy, mathematics, and cultural anthropology.
+- **al-Biruni (973-1050)** - Persian scholar and polymath, known for his contributions to astronomy, mathematics, and cultural anthropology.
 
-- Ibn Sina (980-1037) - Philosopher and physician, often regarded as one of the most significant thinkers in both Islamic and Western medieval philosophy.
+- **Ibn Sina (980-1037)** - Philosopher and physician, often regarded as one of the most significant thinkers in both Islamic and Western medieval philosophy.
 
-- Anselm of Canterbury (1033-1109) - Theologian and philosopher, famous for his ontological argument for the existence of God.
+- **Anselm of Canterbury (1033-1109)** - Theologian and philosopher, famous for his ontological argument for the existence of God.
 
-- Guilhem IX de Poitou (1071-1126) - Duke and poet, one of the earliest known troubadours, contributing to the development of Occitan poetry.
+- **Guilhem IX de Poitou (1071-1126)** - Duke and poet, one of the earliest known troubadours, contributing to the development of Occitan poetry.
 
-- Peter Abelard (1079-1142) - Philosopher and theologian, known for his work in logic, ethics, and his tragic love affair with Héloïse.
+- **Peter Abelard (1079-1142)** - Philosopher and theologian, known for his work in logic, ethics, and his tragic love affair with Héloïse.
 
-- Abbot Suger (1081-1151) - Abbot of Saint-Denis and a key figure in the development of Gothic architecture and art.
+- **Abbot Suger (1081-1151)** - Abbot of Saint-Denis and a key figure in the development of Gothic architecture and art.
 
-- Bernard of Clairvaux (1090-1153) - Cistercian monk and mystic, influential in the reform of monastic life and a major theological figure in the medieval Church.
+- **Bernard of Clairvaux (1090-1153)** - Cistercian monk and mystic, influential in the reform of monastic life and a major theological figure in the medieval Church.
 
-- William of Malmesbury (1095-1143) - Monk and historian, notable for his detailed histories of England and its rulers.
+- **William of Malmesbury (1095-1143)** - Monk and historian, notable for his detailed histories of England and its rulers.
 
-- Hugh of Saint Victor (1096-1141) - Theologian and philosopher, known for his writings on mystical theology and educational reform.
+- **Hugh of Saint Victor (1096-1141)** - Theologian and philosopher, known for his writings on mystical theology and educational reform.
 
-- Hildegard of Bingen (1098-1179) - Abbess, composer, and mystic, known for her visionary theology, musical compositions, and contributions to natural history.
+- **Hildegard of Bingen (1098-1179)** - Abbess, composer, and mystic, known for her visionary theology, musical compositions, and contributions to natural history.
 
-- Héloïse d’Argenteuil (1100-1163) - Scholar and abbess, known for her intellectual relationship with Peter Abelard and her work on theological and philosophical questions.
+- **Héloïse d’Argenteuil (1100-1163)** - Scholar and abbess, known for her intellectual relationship with Peter Abelard and her work on theological and philosophical questions.
 
-- Wace (1110-1174) - Norman poet, best known for his work _Roman de Brut_, an important contribution to the Arthurian legend.
+- **Wace (1110-1174)** - Norman poet, best known for his work _Roman de Brut_, an important contribution to the Arthurian legend.
 
-- Marcabru (1110-1150) - Troubadour poet, renowned for his satirical and moralistic lyrics.
+- **Marcabru (1110-1150)** - Troubadour poet, renowned for his satirical and moralistic lyrics.
 
-- Louis VII of France (1120-1180) - King of France, known for his troubled reign and participation in the Second Crusade.
+- **Louis VII of France (1120-1180)** - King of France, known for his troubled reign and participation in the Second Crusade.
 
-- Eleanor of Aquitaine (1124-1204) - Queen consort of France and England, known for her political influence, patronage of the arts, and participation in the Crusades.
+- **Eleanor of Aquitaine (1124-1204)** - Queen consort of France and England, known for her political influence, patronage of the arts, and participation in the Crusades.
 
-- Ibn Rushd (1126-1198) - Philosopher and physician, influential in the transmission of Aristotelian thought to Europe and his commentaries on Aristotle.
+- **Ibn Rushd (1126-1198)** - Philosopher and physician, influential in the transmission of Aristotelian thought to Europe and his commentaries on Aristotle.
 
-- Alan of Lille (1128-1203) - Theologian and poet, known for his philosophical and theological writings, particularly on ethics and human freedom.
+- **Alan of Lille (1128-1203)** - Theologian and poet, known for his philosophical and theological writings, particularly on ethics and human freedom.
 
-- Henry II (1133-1189) - King of England, notable for his legal reforms and the expansion of the Plantagenet dynasty.
+- **Henry II (1133-1189)** - King of England, notable for his legal reforms and the expansion of the Plantagenet dynasty.
 
-- William Marshal (1146-1219) - Knight and statesman, renowned for his role as protector of the English crown and his chivalric virtues.
+- **William Marshal (1146-1219)** - Knight and statesman, renowned for his role as protector of the English crown and his chivalric virtues.
 
-- Gerald of Wales (1146-1223) - Cleric and historian, known for his writings on the geography and customs of Wales and Ireland.
+- **Gerald of Wales (1146-1223)** - Cleric and historian, known for his writings on the geography and customs of Wales and Ireland.
 
-- Raimbaut d’Aurenga (1147-1173) - Troubadour, known for his complex and emotional lyric poetry.
+- **Raimbaut d’Aurenga (1147-1173)** - Troubadour, known for his complex and emotional lyric poetry.
 
-- Arnaut Daniel (1150-1210) - Troubadour, known for his highly sophisticated and inventive lyric poetry.
+- **Arnaut Daniel (1150-1210)** - Troubadour, known for his highly sophisticated and inventive lyric poetry.
 
-- Chrétien de Troyes (c. 1160-1191) - French poet, best known for his Arthurian romances, including the _Lancelot_ and _Perceval_ tales.
+- **Chrétien de Troyes (c. 1160-1191)** - French poet, best known for his Arthurian romances, including the _Lancelot_ and _Perceval_ tales.
 
-- Wolfram von Eschenbach (c. 1160-1220) - German poet, famous for his epic _Parzival_, which reshaped the Arthurian legend.
+- **Wolfram von Eschenbach (c. 1160-1220)** - German poet, famous for his epic _Parzival_, which reshaped the Arthurian legend.
 
-- Gottfried von Strassburg (d. 1210) - German poet, noted for his _Tristan_, an important medieval romance.
+- **Gottfried von Strassburg (d. 1210)** - German poet, noted for his _Tristan_, an important medieval romance.
 
-- Pope Innocent III (1161-1216) - One of the most powerful popes, known for his efforts to reform the Church and for his leadership during the Fourth Crusade.
+- **Pope Innocent III (1161-1216)** - One of the most powerful popes, known for his efforts to reform the Church and for his leadership during the Fourth Crusade.
 
-- Phillip II Augustus (1165-1223) - King of France, credited with expanding French territory and strengthening the monarchy.
+- **Phillip II Augustus (1165-1223)** - King of France, credited with expanding French territory and strengthening the monarchy.
 
-- Walther von der Vogelweide (1170-1230) - German poet, famous for his political and courtly songs, and a key figure in medieval German lyric poetry.
+- **Walther von der Vogelweide (1170-1230)** - German poet, famous for his political and courtly songs, and a key figure in medieval German lyric poetry.
 
-- Leonardo Pisano, Fibonacci (1170-1240) - Italian mathematician, best known for the Fibonacci sequence and his book _Liber Abaci_, which introduced Hindu-Arabic numerals to Europe.
+- **Leonardo Pisano, Fibonacci (1170-1240)** - Italian mathematician, best known for the Fibonacci sequence and his book _Liber Abaci_, which introduced Hindu-Arabic numerals to Europe.
 
-- St. Dominic (1170-1221) - Founder of the Dominican Order, known for his efforts to combat heresy and promote religious education.
+- **St. Dominic (1170-1221)** - Founder of the Dominican Order, known for his efforts to combat heresy and promote religious education.
 
-- Roger Grosseteste (1175-1253) - English bishop and scholar, a pioneering figure in the development of the scientific method and natural philosophy.
+- **Roger Grosseteste (1175-1253) - English bishop and scholar, a pioneering figure in the development of the scientific m**ethod and natural philosophy.
 
-- Michael Scot (1175-1232) - Philosopher and translator, known for bringing Arabic scientific and philosophical texts to Europe.
+- **Michael Scot (1175-1232)** - Philosopher and translator, known for bringing Arabic scientific and philosophical texts to Europe.
 
-- Guillaume d’Auvergne (1180-1249) - Bishop and scholar, notable for his theological works and influence on medieval thought.
+- **Guillaume d’Auvergne (1180-1249)** - Bishop and scholar, notable for his theological works and influence on medieval thought.
 
-- Laȝamon (~1200) - English poet, known for his work _Brut_, a translation of the _Roman de Brut_ into Middle English.
+- **Laȝamon (~1200)** - English poet, known for his work _Brut_, a translation of the _Roman de Brut_ into Middle English.
 
-- St. Francis of Assisi (1181-1226) - Founder of the Franciscan Order, known for his commitment to poverty, simplicity, and his love for nature.
+- **St. Francis of Assisi (1181-1226)** - Founder of the Franciscan Order, known for his commitment to poverty, simplicity, and his love for nature.
 
-- Frederick II (1194-1250) - Holy Roman Emperor, known for his interest in the sciences, his legal reforms, and his conflicts with the papacy.
+- **Frederick II (1194-1250)** - Holy Roman Emperor, known for his interest in the sciences, his legal reforms, and his conflicts with the papacy.
 
-- Albertus Magnus (1200-1280) - Philosopher and theologian, one of the most important scholars of the Middle Ages, known for his works on natural philosophy and theology.
+- **Albertus Magnus (1200-1280)** - Philosopher and theologian, one of the most important scholars of the Middle Ages, known for his works on natural philosophy and theology.
 
-- Saadi (1210-1292) - Persian poet, famed for his ethical and moralistic poetry, especially in _Gulistan_ and _Bustan_.
+- **Saadi (1210-1292)** - Persian poet, famed for his ethical and moralistic poetry, especially in _Gulistan_ and _Bustan_.
 
-- Roger Bacon (1220-1292) - English philosopher and scientist, a pioneer of experimental science and the scientific method.
+- **Roger Bacon (1220-1292)** - English philosopher and scientist, a pioneer of experimental science and the scientific method.
 
-- Alfonso X (1221-1284) - King of Castile, known for his patronage of science, literature, and the arts, and for his work on the _Cantigas de Santa Maria_.
+- **Alfonso X (1221-1284)** - King of Castile, known for his patronage of science, literature, and the arts, and for his work on the _Cantigas de Santa Maria_.
 
-- Bonaventure (1221-1274) - Theologian and philosopher, a leading figure in the Franciscan Order and an important Scholastic thinker.
+- **Bonaventure (1221-1274)** - Theologian and philosopher, a leading figure in the Franciscan Order and an important Scholastic thinker.
 
-- St. Thomas Aquinas (1225-1274) - Catholic philosopher and theologian, known for synthesizing Aristotelian philosophy with Christian doctrine.
+- **St. Thomas Aquinas (1225-1274)** - Catholic philosopher and theologian, known for synthesizing Aristotelian philosophy with Christian doctrine.
 
-- Ramon Llull (1232-1315) - Philosopher and missionary, known for his development of a system of logic and his efforts to convert Muslims to Christianity.
+- **Ramon Llull (1232-1315)** - Philosopher and missionary, known for his development of a system of logic and his efforts to convert Muslims to Christianity.
 
-- Giovanni Cimabue (1240-1302) - Italian painter, a pioneer of the Italian Renaissance, known for his religious frescoes and innovative style.
+- **Giovanni Cimabue (1240-1302)** - Italian painter, a pioneer of the Italian Renaissance, known for his religious frescoes and innovative style.
 
-- Jean de Meun (1240-1305) - French poet, best known for continuing the _Roman de la Rose_, a major medieval allegorical poem.
+- **Jean de Meun (1240-1305)** - French poet, best known for continuing the _Roman de la Rose_, a major medieval allegorical poem.
 
-- Eckhart von Hochheim (1260-1328) - German mystic and philosopher, known for his mystical theology and influence on Christian mysticism.
+- **Eckhart von Hochheim (1260-1328)** - German mystic and philosopher, known for his mystical theology and influence on Christian mysticism.
 
-- Dante Alighieri (1265-1321) - Italian poet, best known for _The Divine Comedy_, a cornerstone of medieval literature and Christian philosophy.
+- **Dante Alighieri (1265-1321)** - Italian poet, best known for _The Divine Comedy_, a cornerstone of medieval literature and Christian philosophy.
 
-- John Duns Scotus (1266-1308) - Philosopher and theologian, a key figure in Scholasticism, particularly for his work on metaphysics and the nature of God.
+- **John Duns Scotus (1266-1308)** - Philosopher and theologian, a key figure in Scholasticism, particularly for his work on metaphysics and the nature of God.
 
-- Giotto di Bondone (1267-1337) - Italian painter and architect, a pivotal figure in the development of Renaissance art.
+- **Giotto di Bondone (1267-1337)** - Italian painter and architect, a pivotal figure in the development of Renaissance art.
 
-- Marguerite Porete (c. 1285-1310) - French mystic and author of _The Mirror of Simple Souls_, a controversial text that was condemned by the Church.
+- **Marguerite Porete (c. 1285-1310)** - French mystic and author of _The Mirror of Simple Souls_, a controversial text that was condemned by the Church.
 
-- William of Ockham (1287-1347) - Philosopher and theologian, known for Ockham’s Razor, a principle of simplicity in problem-solving.
+- **William of Ockham (1287-1347)** - Philosopher and theologian, known for Ockham’s Razor, a principle of simplicity in problem-solving.
 
 - **Barlaam of Seminara (1290-1348)** - Italian philosopher and theologian, known for his debates with Palamites on the nature of divine light.
 
@@ -225,7 +227,7 @@ tags:
 
 - **Johannes Trithemius (1462-1516)** - German monk, scholar, and cryptographer, known for his work on history and the development of early cryptography.
 
--** Giovanni Pico della Mirandola (1463–1494)** - Italian philosopher, known for his _Oration on the Dignity of Man_, a foundational text of Renaissance humanism.
+- ** Giovanni Pico della Mirandola (1463–1494)** - Italian philosopher, known for his _Oration on the Dignity of Man_, a foundational text of Renaissance humanism.
 
 - **Moctezuma Xocoyotzin (1466-1520)** - Aztec emperor, notable for his encounters with Hernán Cortés during the Spanish conquest of the Aztec Empire.
 
@@ -239,7 +241,7 @@ tags:
 
 - **Alessandra Scala (1475-1506)** - Italian poet and philosopher, recognized for her contributions to Renaissance poetry and thought.
 
--** Pope Leo X (1475-1521)** - Pope, known for his patronage of the arts and his role in the events leading to the Reformation.
+- ** Pope Leo X (1475-1521)** - Pope, known for his patronage of the arts and his role in the events leading to the Reformation.
 
 - **Antonio de Montesinos (1475-1540)** - Spanish Dominican friar, known for his advocacy for the rights of indigenous peoples in the Americas.
 
