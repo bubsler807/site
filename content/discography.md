@@ -4,6 +4,8 @@ title: Discography
 
 The date is the date of export.
 
+
+### [[song 2025-05-14 blue city| 2025-05-14 - Blue City]]
 ### [[song 2025-04-26 amon dreams of redshift|2025-04-26 - Amon Dreams of Redshift]]
 ### [[song 2025-04-25 pynchon train song|2025-04-25 - Pynchon's Train Song From GR]]
 ### [[song 2025-04-23 down by the shore|2025-04-23 - Down by the Shore]]
