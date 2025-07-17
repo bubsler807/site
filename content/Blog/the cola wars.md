@@ -82,7 +82,9 @@ The rooftop the sniper (presumably Thomas Matthew Crooks) used as his perch, whi
 
 George Webb has a different take on this.[^2] about warring plastics and glass manufacturers in the area. That glass manufacturers stuck in the past want the secret recipes to military-grade plastic products.
 
+The man Corey Comparetore who was shot at the assassination attempt worked for JSP International for 30 years.
 
+Cory Comperatore’s father had the patents in Butler for JSP Plastics for bulletproofing.
 
 There were all sorts of shenanigans going on at this time such as Vance making weird jokes about drinking Mountain Dew being racist.[^3]
 

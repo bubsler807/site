@@ -1,6 +1,9 @@
 ---
 title: Album - Amon's Dream OST
 date: 2025-04-27
+tags:
+  - Music
+  - Album
 ---
 Soundtrack to a game.
 

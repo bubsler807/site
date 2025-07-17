@@ -18,8 +18,8 @@ bleed through cracks in empty white
 
 Is this the city I'm looking for?
 
-The air is thick with broken tongues,
-I walk where all the silence rung
+Is air that's broken still just one?
+I walk where all the silence rung.
 
 Oh blue city, you blistered mind,
 skinned of color, splitless light,

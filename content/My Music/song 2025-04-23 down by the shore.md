@@ -32,5 +32,5 @@ the waves repeat, I've heard it all before.
 Written some months ago. Recorded vocals today.   
 Recorded with:
 - 3U Audio CM1 Teal
-- Yamaha 612
+- Yamaha Pacifica 612
 - Repro 5
