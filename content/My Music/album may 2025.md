@@ -3,7 +3,7 @@ title: Album - May 2025
 tags:
   - Music
   - Album
-date: 
+date: 2025-05-31
 ---
 
 1. Prelude
