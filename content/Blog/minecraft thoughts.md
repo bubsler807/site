@@ -1,7 +1,7 @@
 ---
 title: What I Wanted Minecraft to Be & What Went Wrong
 date: 2025-04-20
-draft: false
+draft: true
 ---
 "Do anything you want." This is the way that Minecraft is marketed. This was its promise, and in its earliest incarnations, Minecraft came close to delivering on that promise.
 
