@@ -14,34 +14,28 @@ const defaultOptions = {
   folderDefaultState: "collapsed",
   useSavedState: true,
   mapFn: (node) => {
-    return node;
+    return node
   },
   sortFn: (a, b) => {
-    const aIsFolder = !a.file;
-    const bIsFolder = !b.file;
-
-    if (aIsFolder && bIsFolder) {
-      // Alphabetical sort for folders
+    // Sort order: folders first, then files. Sort folders and files alphabetically
+    if ((!a.file && !b.file) || (a.file && b.file)) {
+      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
       return a.displayName.localeCompare(b.displayName, undefined, {
         numeric: true,
         sensitivity: "base",
-      });
+      })
     }
 
-    if (!aIsFolder && !bIsFolder) {
-      // Date sort for files (newest first)
-      const aTime = a.file?.stat?.mtime ?? 0;
-      const bTime = b.file?.stat?.mtime ?? 0;
-      return bTime - aTime;
+    if (a.file && !b.file) {
+      return 1
+    } else {
+      return -1
     }
-
-    // Folders before files
-    return aIsFolder ? -1 : 1;
   },
   filterFn: (node) => node.name !== "tags",
   order: ["filter", "map", "sort"],
-} satisfies Options;
-
+} satisfies Options
 
 export default ((userOpts?: Partial<Options>) => {
   // Parse config
