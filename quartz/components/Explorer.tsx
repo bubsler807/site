@@ -20,7 +20,7 @@ const defaultOptions = {
     const isAFile = !!a.file;
     const isBFile = !!b.file;
 
-    // Both folders
+    // Both folders — sort alphabetically
     if (!isAFile && !isBFile) {
       return a.displayName.localeCompare(b.displayName, undefined, {
         numeric: true,
@@ -28,11 +28,11 @@ const defaultOptions = {
       });
     }
 
-    // Both files — sort by date descending (newest first)
+    // Both files — sort by date ascending (oldest first)
     if (isAFile && isBFile) {
       const aTime = a.file.stat?.mtime ?? 0;
       const bTime = b.file.stat?.mtime ?? 0;
-      return bTime - aTime;
+      return aTime - bTime;
     }
 
     // Folder first
