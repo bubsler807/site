@@ -10,4 +10,25 @@ Remaining true to the Russian spirit, there is no verticality to be found here. 
 
 Joy (rather than happiness) is a resolution that follows disharmony. Disharmony is the very thing that allows the possibility of resolution. The truth of life usually lies in that tension between what we hope for and the ambiguous reality that confronts us. 
 
-It really hit me this time (partly due to Anatoliy Solonitsyn's brilliant delivery) when the writer says "The future used to be just a continuation of the present, with all the changes looming far behind the horizon. Now the future and the present are one. Are they ready for it? They don't want to know anything! All they know is how to gobble!" If only Tarkovsky could see the present, how much our desires and their near immediate fulfillment have only continued to collapse in on themselves. This largely began with the movement away from the age of the ocean, which pushed our conception of space to its limits, towards what Toynbee calls "the annihilation of distance," with the development of the steam engine, to our current techno-theology which desires to immanentize the eschaton by way of the immediate fulfillment of desire. However, by desiring to rid ourselves of the limitations of space and time and become omniscient and omnipresent, we lose our own subjectivity more and more, because without mediation the desire of the self simply collapses into the desired object. Increasingly: we don't know anything. There is no space or time for contemplation. The modern world is a black hole.
+It really hit me this time (partly due to Anatoliy Solonitsyn's brilliant delivery) when the writer says "The future used to be just a continuation of the present, with all the changes looming far behind the horizon. Now the future and the present are one. Are they ready for it? They don't want to know anything! All they know is how to gobble!" If only Tarkovsky could see the present, how much our desires and their near immediate fulfillment have only continued to collapse in on themselves. One is reminded of his father's words:
+
+> Sight grows dim — my power,  
+> Two invisible diamond lances;  
+> Hearing fails, full of long ago thunder  
+> And the breathing of my father’s house;  
+> Hard knots of muscle grow feeble,  
+> Like hoary oxen on a plow-field;  
+> And behind my shoulders at night  
+> No longer shine two wings.
+> 
+> I am a candle, I burnt out at the feast.  
+> Gather up my wax at dawn,  
+> And this page will prompt you  
+> How to weep and when to be proud,  
+> How to give away the final third  
+> Of merriment and have an easy death,  
+> And, sheltered by some chance roof,  
+> To blaze posthumously, like a word.
+
+
+This largely began with the movement away from the age of the ocean, which pushed our conception of space to its limits, towards what Toynbee calls "the annihilation of distance," with the development of the steam engine, to our current techno-theology which desires to immanentize the eschaton by way of the immediate fulfillment of desire. However, by desiring to rid ourselves of the limitations of space and time and become omniscient and omnipresent, we lose our own subjectivity more and more, because without mediation the desire of the self simply collapses into the desired object. Increasingly: we don't know anything. There is no space or time for contemplation. The modern world is a black hole.
