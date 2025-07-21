@@ -1,5 +1,5 @@
 ---
-title: The Aesthetics of Garry's Mod
+title: Memories of Garry's Mod
 date: 2025-05-30
 ---
 ## DarkRP
