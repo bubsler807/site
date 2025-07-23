@@ -1,5 +1,5 @@
 ---
-title: Some Thoughts on Zombie Media
+title: 2025-07-16 - Some Thoughts on Zombie Media
 date: 2025-07-16
 tags:
   - Culture

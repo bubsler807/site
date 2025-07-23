@@ -1,5 +1,5 @@
 ---
-title: Album Recommendation - Dan Spencer's Return to Your Dark Master
+title: 2025-03-04 - Album Recommendation - Dan Spencer's Return to Your Dark Master
 date: 2025-03-04
 tags:
   - Music

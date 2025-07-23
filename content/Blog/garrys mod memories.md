@@ -1,5 +1,8 @@
 ---
-title: Memories of Garry's Mod
+title: 2025-05-30 - Memories of Garry's Mod
+tags:
+  - Video-Games
+  - Personal
 date: 2025-05-30
 ---
 ## DarkRP
@@ -20,7 +23,7 @@ About a decade ago I used to play on servers called DarkRP servers. They were ca
 - Medic
 - Security Guard
 
-Most players made by hiding illegal money printers in their base. These printers could be heard through walls making suspicious humming noises and occasionally catching on fire.
+Most players made money by hiding illegal money printers in their base. These printers could be heard through walls making suspicious humming noises and occasionally catching on fire.
 
 In order to raid your base, police need a warrant, which means some guy has to advert "I heard noises", and hope that the mayor isn't afk.
 
