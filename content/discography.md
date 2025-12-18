@@ -5,7 +5,7 @@ title: Discography
 The date is the date of export.
 
 
-### [[song 2025-12-18 - Hope Is The Thing With Feathers (Emily Dickinson)]]
+### [[song 2025-12-18 - Hope Is The Thing With Feathers (Emily Dickinson)|2025-12-18 - Hope Is The Thing With Feathers (Emily Dickinson)]]
 ### [[album april 2025|Album - April 2025]]
 ### [[song 2025-05-14 blue city| 2025-05-14 - Blue City]]
 ### [[song 2025-04-26 amon dreams of redshift|2025-04-26 - Amon Dreams of Redshift]]

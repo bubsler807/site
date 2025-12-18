@@ -1,5 +1,5 @@
 ---
-title: 2025-12-18 - H
+title: 2025-12-18 - Hope Is the Thing With Feathers
 date: 2025-12-18
 tags:
   - Poetry
