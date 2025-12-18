@@ -1,0 +1,12 @@
+---
+title: 2025-08-01 - THC Induced Derealization
+date: 2025-08-01
+draft: true
+---
+It began with dryness... cottonmouth. I went to get some water, then went back upstairs. I felt as if I was dying of dehydration, so I drank all the water, then stared into the empty cup. It didn't help. I tried to calm down by breathing deeply, but that didn't help either. As I continued to look into the cup, I began to feel as if I was falling into the cup. My attention would be drawn further and further in to it. Then I snapped back to myself and immediately began the process of falling into the cup once again. Then my attention snapped back. This process sped up, happening many times per second. Reality was split into two: one in which my attention was being rapidly drawn into the cup, and another in which my attention was focused on the cup from an external perspective. These two realities were superimposed on one another and my attention flickered back and forth between them. This was so overwhelming that the world turned white. Complete blankness. The blankness of noise, complete unintelligibility. 
+
+Things eventually resolved somewhat and I was able to get up and lie down on my bed. There was still a bit of light outside when I lay down, so at least an hour must have passed between then and my next memory, because it was completely dark out. This next memory was chaos. I stepped back and observed it as if it was happening on a screen. I got up but could barely walk. I am in a vast space, vast, but somehow not grand. My life is small in the distance of the vast nothingness. I could barely walk, because my life was there, and I was here. I eventually got to the stairs, but everything was so scrambled that I couldn't remember how to go down them. Eventually I took a step, then another, then another. 
+
+This backfired because it quickly became an unconscious, automatic process. I could not stop myself from taking another step. I began to watch myself as I walked in a circle. I couldn't even try to stop, as I was a mere observer of a distant life. All sensation, all phenomena seemed distant. Even my own thoughts seemed distant, as if they weren't mine. I was simply no longer at the controls. All my thoughts were repetitive and my attention flickered between them at a very fast speed. 
+
+Though I had not yet realized, my perception of time had been extremely altered. The circles weren't perfect and at one point I hit my head on the corner of a wall.

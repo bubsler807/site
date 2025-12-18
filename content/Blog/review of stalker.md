@@ -1,6 +1,7 @@
 ---
 title: 2025-07-19 - Thoughts on Stalker (1979)
 date: 2025-07-19
+draft: true
 ---
 Using cinema as a mechanism for producing new modes of thought, Tarkovsky discards the novel's explicit descriptions, retaining only names. The Zone's ambiguous geography defies rational mapping. "The Zone is a very complicated system of traps" the stalker tells us. The traps are tests of intention. He shows us that it takes time and contemplation to navigate them. They alone have adapted to its ambiguities, much like monks who, through repetitive rituals, achieve an equilibrium within highly charged spaces.
 

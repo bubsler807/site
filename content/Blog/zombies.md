@@ -3,6 +3,7 @@ title: 2025-07-16 - Some Thoughts on Zombie Media
 date: 2025-07-16
 tags:
   - Culture
+draft: true
 ---
 I'm specifically thinking of the show _The Walking Dead_, which I watched years ago up to season 6, but it generally extends to most other zombie media that extends beyond the initial outbreak, at least all that I've seen or can think of.
 
@@ -13,3 +14,7 @@ My critique is not that they wish to resign to simplicity, to a kind of anti-mod
 I have often seen people treat the zombie phenomenon as a symbol of an unconscious fear of the modern consumer, who sleepwalks through life, but another observation can be made: it is ironic that America is the largest producer of zombie media, given that we are also the ones who have most forgotten the dead. We have reduced our respect to the single evening of Halloween, a secularized, commercialized, juvenilized masquerade. Juvenalization is a sign of cultural death. Things become toy-like. We long for the reality of an apocalypse.
 
 The Daryl Dixon Walking Dead show seemed interesting from the description / trailer, as it seemed like it was going to break this mold and acknowledge the above... no idea if it did or not.
+
+---
+
+Continuation : [[28 years later|Thoughts on 28 Years Later]]

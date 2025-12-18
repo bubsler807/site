@@ -46,7 +46,7 @@ Another thing to note: As I said above, there is also a Fang in V., Fang the Cat
 This leads us to the next section.
 ### **Milk vs. Blood – Sustenance and Predation**
 
-Beer/milk as the sustenance of life, blood as a symbol of predation and death. The substance is blood, and the tone is more predatory—A deeper, almost vampiric thirst.
+Beer/milk as the sustenance of life, blood as a symbol of predation and death. The substance is blood, and the tone is more predatory... A deeper, almost vampiric thirst.
 
 There is also an artificial / natural dichotomy here as well, with the beer in V. coming from rubber nipples. Ploy does not just revert from beast to a man, but from beast to child?
 

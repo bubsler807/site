@@ -11,7 +11,7 @@ tags:
 - https://x.com/NangaParbat1618 - Biology / Bioenergetics
 - https://x.com/InformationBot0 - Quantum Mysticism
 - https://x.com/SamBuntz
-- https://x.com/fourfoldvision - History of Consciousness
+- https://x.com/fourfoldvision - History of Consciousness... Rest in Peace :(
 
 ### Youtube
 
@@ -42,6 +42,8 @@ tags:
 - <p><a href="https://swimpool.blog/">The Swim Pool</a> - Culture, Occultism</p>
 - <p><a href="https://akinokure.blogspot.com/">Face to Face</a> - Culture, Art, History</p>
 - <p><a href="https://www.jdemeta.net/">JDEMeta</a> - Culture, Philosophy, Accelerationism</p>
+- <p><a href="https://aridoamerica.substack.com">Aridoamerica</a> - America Spenglerian Morphological History</p>
+- <p><a href="https://substack.com/@mythoamerica">Mythoamerica</a> - American Vibe Explication</p>
 
 ### Interesting
 - https://www.loc.gov/pictures/search/?q=mrg&sp=1&st=gallery - 11,000 public domain photos of American roadside attractions photographed in broad daylight without people by John Margolies
