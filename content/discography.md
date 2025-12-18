@@ -4,6 +4,8 @@ title: Discography
 
 The date is the date of export.
 
+
+### [[song 2025-12-18 - Hope Is The Thing With Feathers (Emily Dickinson)]]
 ### [[album april 2025|Album - April 2025]]
 ### [[song 2025-05-14 blue city| 2025-05-14 - Blue City]]
 ### [[song 2025-04-26 amon dreams of redshift|2025-04-26 - Amon Dreams of Redshift]]
@@ -15,7 +17,7 @@ The date is the date of export.
 ### [[song 2025-04-19 the hallways|2025-04-19 - The Hallways]]
 ### [[song 2025-04-14 plucking strings|2025-04-14 - Plucking Strings]]
 
-### [[song - 2025-04-07 couldn't be more wrong|2025-04-07 - Couldn't Be More Wrong]]
+### [[song 2025-04-07 couldn't be more wrong|2025-04-07 - Couldn't Be More Wrong]]
 
 
 
